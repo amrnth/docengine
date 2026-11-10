@@ -1,0 +1,23 @@
+{
+ "layout": {
+  "nid_score": 0.9199988734373119,
+  "ignore_classes": [
+   "figure",
+   "table",
+   "chart"
+  ],
+  "filter_by_gt_area": true
+ },
+ "table": {
+  "table_f1_score": 0.9464285714285714,
+  "teds_score": 0.954961759898822,
+  "teds_s_score": 0.9711516867779413,
+  "min_match_score": 0.1
+ },
+ "data_statistics": {
+  "total_gt_samples": 200,
+  "valid_predictions": 200,
+  "error_predictions": 0,
+  "missing_predictions": 0
+ }
+}

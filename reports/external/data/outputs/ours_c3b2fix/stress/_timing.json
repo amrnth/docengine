@@ -1,0 +1,14 @@
+{
+  "stage1_reused_from": "modal_c3b_stress",
+  "gpu12": "L40S",
+  "lt08_load_seconds": 165.5,
+  "stage1_seconds": 365.7,
+  "lt4_load_seconds": 205.2,
+  "stage2_seconds": 744.0,
+  "stages12_wall_seconds": 968.4,
+  "gpu3": "H200",
+  "pro_load_seconds": 210.6,
+  "stage3_seconds": 180.4,
+  "stage3_wall_seconds": 392.0,
+  "textlayer_seconds": 10.1
+}

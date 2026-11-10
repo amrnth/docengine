@@ -1,0 +1,24 @@
+{
+ "note": "By-eye verdicts on the candidates of bench/audit_confirm.py (crops in reports/audit/crops/), 2026-11-10.",
+ "rejected": {
+  "02e31046996b59b4997b8413f09ae163ade5_page_2.pdf_order_642dbce7": "test is right: the page prints '~30% plagioclase'; the stored text is garbled there and the models write it as LaTeX",
+  "09f90a8fad0997f7cf454cbcbe79cab3bc0f_page_2.pdf_order_0d70c739": "unclear: the string looks like a reworded figure caption; not counted",
+  "0083fb2109e58be50aec2eca07fcbfe1230b_page_1.pdf_order_c18b09a4": "layout question, not a misreading: '1995' and the title are separate blocks",
+  "065d792cf3923fc76a17183cfd13480cd51d_page_8.pdf_order_9589e0f0": "convention: the test drops the dot leaders of an index entry",
+  "065d792cf3923fc76a17183cfd13480cd51d_page_8.pdf_order_644d49ed": "convention: the test drops the dot leaders of an index entry"
+ },
+ "headers_footers_wrong": {
+  "e99fc5946d09541cc7d1b887c328cfe15740cdb9_page_1.pdf_manual_00": "'1' must be absent from the last 2 characters, but the last body line is 'Zlín, duben 2018'",
+  "bec1f712cbe509344bff707560d6eed8f05133b3_page_9_header_02": "'ANEC' must be absent from the first 20 characters, but the first heading of the body is 'ANEC CONCLUSIONS FROM THIS AND EARLIER STUDIES'",
+  "6e6caf4cc9a3e734de43f29aabbb9ff0bf6f5487_page_1_header_00": "'Programs of Graduate Study in the Basic Biological Sciences' is the running header and, per the embedded text, also the title of the page",
+  "29019be34d0c59210165af50a8904f749d7c0678_page_1_header_01": "'FitForFire' is also in a body sentence: '(FitForFire-Aufwärmfibel)'",
+  "0ed74b112dde3b3ce5e3a3d6c69a930afaad342c_page_1_processed_pg1_header_00": "'Physics Minor (Non-Teaching)' is the running header and also the title of the page",
+  "e1877d4ffc65bd66a9e5b9a5d2608362ad458c86_page_7_header_01": "'dodis.ch/31973' is also cited inside footnote 31; the 3 runs that pass left the footnotes out"
+ },
+ "kept_without_image_check": {
+  "019a8841dddeb304774ba62a9f5d8dccb43d_page_1.pdf_order_87cd96c5": "stored text + 4 of 4 model families; the crop missed the sentence"
+ },
+ "headers_footers_not_counted": {
+  "7d57d413abf82db5fb75f7ad24a24ec912cfa837_page_1_header_00": "'Student Affairs' must be absent from the first 10 characters; the page title is 'STUDENT AFFAIRS'. Runs that write '# ' before the title pass, runs that do not fail. Odd, but passable."
+ }
+}

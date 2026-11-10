@@ -1,0 +1,200 @@
+{"page": "1235_1235081_p1.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "1235_1235093_p1.pdf", "mode": "visible", "why": "", "layer_words": 408, "coverage": {"recall": 0.9951, "precision": 0.9975}, "changes": [], "n_changes": 0}
+{"page": "1235_1235120_p1.pdf", "mode": "visible", "why": "", "layer_words": 86, "coverage": {"recall": 0.4767, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "1235_1235122_p13.pdf", "mode": "visible", "why": "", "layer_words": 71, "coverage": {"recall": 0.9859, "precision": 0.9859}, "changes": [["Burokratizzazione", "Burocratizzazione"]], "n_changes": 1}
+{"page": "1235_1235157_p2.pdf", "mode": "visible", "why": "", "layer_words": 173, "coverage": {"recall": 1.0, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "1235_1235172_p89.pdf", "mode": "visible", "why": "", "layer_words": 260, "coverage": {"recall": 0.9115, "precision": 0.9875}, "changes": [], "n_changes": 0}
+{"page": "1235_1235204_p11.pdf", "mode": "visible", "why": "", "layer_words": 331, "coverage": {"recall": 0.9245, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "1235_1235215_p1.pdf", "mode": "visible", "why": "", "layer_words": 324, "coverage": {"recall": 0.9877, "precision": 0.9969}, "changes": [], "n_changes": 0}
+{"page": "1235_1235220_p5.pdf", "mode": "visible", "why": "", "layer_words": 273, "coverage": {"recall": 0.9304, "precision": 0.7135}, "changes": [["semenen", "sementen"], ["semenen", "sementen"], ["semenen", "sementen"]], "n_changes": 3}
+{"page": "1235_1235241_p1.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "1235_1235272_p1.pdf", "mode": "visible", "why": "", "layer_words": 410, "coverage": {"recall": 0.9195, "precision": 0.9818}, "changes": [["Talianka", "Talianska"], ["širenia", "šírenia"]], "n_changes": 2}
+{"page": "1235_1235306_p1.pdf", "mode": "visible", "why": "", "layer_words": 417, "coverage": {"recall": 0.9832, "precision": 0.9951}, "changes": [], "n_changes": 0}
+{"page": "1235_1235357_p12.pdf", "mode": "visible", "why": "", "layer_words": 504, "coverage": {"recall": 0.9861, "precision": 0.998}, "changes": [], "n_changes": 0}
+{"page": "1235_1235415_p1.pdf", "mode": "visible", "why": "", "layer_words": 925, "coverage": {"recall": 0.9924, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "1235_1235432_p3.pdf", "mode": "visible", "why": "", "layer_words": 165, "coverage": {"recall": 1.0, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "1235_1235452_p1.pdf", "mode": "visible", "why": "", "layer_words": 264, "coverage": {"recall": 0.9659, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "1235_1235509_p1.pdf", "mode": "visible", "why": "", "layer_words": 184, "coverage": {"recall": 1.0, "precision": 0.9946}, "changes": [], "n_changes": 0}
+{"page": "1235_1235546_p21.pdf", "mode": "visible", "why": "", "layer_words": 442, "coverage": {"recall": 0.9163, "precision": 0.9289}, "changes": [], "n_changes": 0}
+{"page": "1235_1235550_p19.pdf", "mode": "visible", "why": "disagrees with the page reading", "layer_words": 22, "coverage": {"recall": 0.0, "precision": 0.0}, "changes": [], "n_changes": 0}
+{"page": "1235_1235564_p9.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "1235_1235571_p2.pdf", "mode": "visible", "why": "", "layer_words": 524, "coverage": {"recall": 0.9866, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "1235_1235626_p2.pdf", "mode": "visible", "why": "", "layer_words": 109, "coverage": {"recall": 0.9725, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "1235_1235628_p6.pdf", "mode": "visible", "why": "", "layer_words": 629, "coverage": {"recall": 0.5946, "precision": 0.7276}, "changes": [], "n_changes": 0}
+{"page": "1235_1235656_p2.pdf", "mode": "visible", "why": "", "layer_words": 284, "coverage": {"recall": 0.9366, "precision": 0.9888}, "changes": [["poppeted", "poppetted"], ["BI-Inqvf8ZM", "BI-lnqvf8ZM"]], "n_changes": 2}
+{"page": "1235_1235689_p1.pdf", "mode": "visible", "why": "", "layer_words": 68, "coverage": {"recall": 0.9706, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "1235_1235692_p1.pdf", "mode": "visible", "why": "", "layer_words": 36, "coverage": {"recall": 1.0, "precision": 0.9231}, "changes": [], "n_changes": 0}
+{"page": "1235_1235710_p3.pdf", "mode": "visible", "why": "", "layer_words": 423, "coverage": {"recall": 0.9858, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "1235_1235715_p3.pdf", "mode": "visible", "why": "", "layer_words": 270, "coverage": {"recall": 0.9556, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "1235_1235766_p7.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "1235_1235809_p11.pdf", "mode": "visible", "why": "", "layer_words": 595, "coverage": {"recall": 0.9378, "precision": 0.9964}, "changes": [], "n_changes": 0}
+{"page": "1235_1235812_p2.pdf", "mode": "visible", "why": "", "layer_words": 307, "coverage": {"recall": 0.8925, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "1235_1235815_p2.pdf", "mode": "visible", "why": "", "layer_words": 221, "coverage": {"recall": 0.9683, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "1235_1235819_p4.pdf", "mode": "visible", "why": "", "layer_words": 262, "coverage": {"recall": 0.9466, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "1235_1235867_p6.pdf", "mode": "visible", "why": "", "layer_words": 64, "coverage": {"recall": 0.9531, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "1235_1235868_p1.pdf", "mode": "visible", "why": "", "layer_words": 461, "coverage": {"recall": 0.9892, "precision": 0.9913}, "changes": [], "n_changes": 0}
+{"page": "1235_1235912_p23.pdf", "mode": "visible", "why": "too little text", "layer_words": 3, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "1235_1235921_p27.pdf", "mode": "visible", "why": "", "layer_words": 211, "coverage": {"recall": 0.9573, "precision": 0.9902}, "changes": [], "n_changes": 0}
+{"page": "1235_1235924_p1.pdf", "mode": "visible", "why": "", "layer_words": 308, "coverage": {"recall": 0.8799, "precision": 0.9644}, "changes": [], "n_changes": 0}
+{"page": "1235_1235932_p9.pdf", "mode": "visible", "why": "", "layer_words": 198, "coverage": {"recall": 0.601, "precision": 0.9084}, "changes": [["received", "recieved"], ["Intentional", "Intential"]], "n_changes": 2}
+{"page": "1235_1235934_p3.pdf", "mode": "invisible", "why": "invisible OCR layer", "layer_words": 70, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "2652_2652038_p1.pdf", "mode": "visible", "why": "", "layer_words": 233, "coverage": {"recall": 1.0, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "2652_2652047_p2.pdf", "mode": "visible", "why": "", "layer_words": 112, "coverage": {"recall": 0.5, "precision": 0.5}, "changes": [], "n_changes": 0}
+{"page": "2652_2652049_p1.pdf", "mode": "visible", "why": "", "layer_words": 331, "coverage": {"recall": 0.9728, "precision": 0.9938}, "changes": [], "n_changes": 0}
+{"page": "2652_2652050_p1.pdf", "mode": "visible", "why": "", "layer_words": 591, "coverage": {"recall": 0.9086, "precision": 0.9981}, "changes": [], "n_changes": 0}
+{"page": "2652_2652059_p1.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "2652_2652060_p1.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "2652_2652063_p1.pdf", "mode": "visible", "why": "", "layer_words": 803, "coverage": {"recall": 0.9639, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "2652_2652071_p1.pdf", "mode": "visible", "why": "", "layer_words": 458, "coverage": {"recall": 0.7074, "precision": 0.905}, "changes": [], "n_changes": 0}
+{"page": "2652_2652074_p1.pdf", "mode": "visible", "why": "", "layer_words": 1127, "coverage": {"recall": 0.9778, "precision": 0.9946}, "changes": [["Encyclopaedia", "Encyclopædia"]], "n_changes": 1}
+{"page": "2652_2652088_p2.pdf", "mode": "visible", "why": "", "layer_words": 176, "coverage": {"recall": 0.8182, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "2652_2652092_p1.pdf", "mode": "visible", "why": "", "layer_words": 248, "coverage": {"recall": 0.9073, "precision": 0.9956}, "changes": [], "n_changes": 0}
+{"page": "2652_2652096_p1.pdf", "mode": "visible", "why": "", "layer_words": 216, "coverage": {"recall": 0.5926, "precision": 0.9922}, "changes": [], "n_changes": 0}
+{"page": "2652_2652126_p1.pdf", "mode": "visible", "why": "junk characters (15%)", "layer_words": 231, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "2652_2652136_p1.pdf", "mode": "visible", "why": "", "layer_words": 949, "coverage": {"recall": 0.9874, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "2652_2652147_p1.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "2652_2652220_p7.pdf", "mode": "visible", "why": "", "layer_words": 70, "coverage": {"recall": 0.9857, "precision": 0.9857}, "changes": [], "n_changes": 0}
+{"page": "2652_2652227_p1.pdf", "mode": "visible", "why": "", "layer_words": 257, "coverage": {"recall": 0.93, "precision": 0.9917}, "changes": [], "n_changes": 0}
+{"page": "2652_2652229_p5.pdf", "mode": "visible", "why": "", "layer_words": 909, "coverage": {"recall": 0.9989, "precision": 0.9989}, "changes": [], "n_changes": 0}
+{"page": "2652_2652247_p32.pdf", "mode": "visible", "why": "", "layer_words": 488, "coverage": {"recall": 0.959, "precision": 0.9957}, "changes": [], "n_changes": 0}
+{"page": "2652_2652298_p1.pdf", "mode": "visible", "why": "", "layer_words": 256, "coverage": {"recall": 0.9453, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "2652_2652376_p1.pdf", "mode": "visible", "why": "", "layer_words": 224, "coverage": {"recall": 0.9732, "precision": 0.9909}, "changes": [["Verfahrensort", "Verfahrensart"]], "n_changes": 1}
+{"page": "2652_2652409_p1.pdf", "mode": "visible", "why": "", "layer_words": 114, "coverage": {"recall": 0.9825, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "2652_2652431_p5.pdf", "mode": "visible", "why": "", "layer_words": 27, "coverage": {"recall": 1.0, "precision": 0.7941}, "changes": [], "n_changes": 0}
+{"page": "2652_2652432_p14.pdf", "mode": "visible", "why": "", "layer_words": 446, "coverage": {"recall": 0.9955, "precision": 0.9978}, "changes": [], "n_changes": 0}
+{"page": "2652_2652437_p5.pdf", "mode": "visible", "why": "", "layer_words": 25, "coverage": {"recall": 0.88, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "2652_2652447_p33.pdf", "mode": "visible", "why": "", "layer_words": 588, "coverage": {"recall": 0.9626, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "2652_2652522_p13.pdf", "mode": "visible", "why": "", "layer_words": 537, "coverage": {"recall": 0.9907, "precision": 0.9981}, "changes": [], "n_changes": 0}
+{"page": "2652_2652551_p1.pdf", "mode": "visible", "why": "", "layer_words": 3063, "coverage": {"recall": 0.8848, "precision": 0.9812}, "changes": [["2000", "2020"], ["Analysts", "Analysis"], ["Training", "Trading"], ["DeLuco", "DeFusco"], ["McLeavy", "McLeavey"], ["Jerold", "Jerald"], ["DeLuco", "DeFusco"]], "n_changes": 7}
+{"page": "2652_2652573_p1.pdf", "mode": "visible", "why": "", "layer_words": 305, "coverage": {"recall": 0.9672, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "2652_2652582_p15.pdf", "mode": "visible", "why": "", "layer_words": 562, "coverage": {"recall": 0.9858, "precision": 0.9982}, "changes": [], "n_changes": 0}
+{"page": "2652_2652593_p8.pdf", "mode": "visible", "why": "", "layer_words": 234, "coverage": {"recall": 0.9658, "precision": 0.9956}, "changes": [], "n_changes": 0}
+{"page": "2652_2652599_p1.pdf", "mode": "visible", "why": "", "layer_words": 304, "coverage": {"recall": 0.9704, "precision": 1.0}, "changes": [["15", "16"], ["15", "18"]], "n_changes": 2}
+{"page": "2652_2652602_p4.pdf", "mode": "visible", "why": "", "layer_words": 75, "coverage": {"recall": 1.0, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "2652_2652645_p1.pdf", "mode": "visible", "why": "", "layer_words": 26, "coverage": {"recall": 0.6923, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "2652_2652648_p2.pdf", "mode": "visible", "why": "", "layer_words": 230, "coverage": {"recall": 0.6565, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "2652_2652844_p1.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "2652_2652850_p1.pdf", "mode": "visible", "why": "", "layer_words": 495, "coverage": {"recall": 0.9758, "precision": 0.9918}, "changes": [["fikrasının", "fıkrasının"], ["vasıtlarını", "vasıtalarını"], ["fikrasında", "fıkrasında"]], "n_changes": 3}
+{"page": "2652_2652884_p4.pdf", "mode": "visible", "why": "", "layer_words": 195, "coverage": {"recall": 0.9538, "precision": 0.9894}, "changes": [["Material", "Materiał"], ["puszek", "puszki"]], "n_changes": 2}
+{"page": "2652_2652937_p11.pdf", "mode": "visible", "why": "", "layer_words": 218, "coverage": {"recall": 0.9862, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "2652_2652993_p2.pdf", "mode": "visible", "why": "", "layer_words": 361, "coverage": {"recall": 0.9834, "precision": 0.9834}, "changes": [], "n_changes": 0}
+{"page": "3234_3234029_p2.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "3234_3234030_p3.pdf", "mode": "visible", "why": "", "layer_words": 117, "coverage": {"recall": 0.7863, "precision": 0.9787}, "changes": [], "n_changes": 0}
+{"page": "3234_3234063_p1.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "3234_3234077_p1.pdf", "mode": "visible", "why": "", "layer_words": 448, "coverage": {"recall": 0.9688, "precision": 0.9931}, "changes": [], "n_changes": 0}
+{"page": "3234_3234102_p1.pdf", "mode": "visible", "why": "", "layer_words": 81, "coverage": {"recall": 0.8642, "precision": 0.9859}, "changes": [], "n_changes": 0}
+{"page": "3234_3234109_p1.pdf", "mode": "visible", "why": "", "layer_words": 60, "coverage": {"recall": 0.7333, "precision": 0.898}, "changes": [], "n_changes": 0}
+{"page": "3234_3234124_p3.pdf", "mode": "visible", "why": "", "layer_words": 207, "coverage": {"recall": 1.0, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "3234_3234147_p3.pdf", "mode": "visible", "why": "", "layer_words": 139, "coverage": {"recall": 0.9209, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "3234_3234148_p1.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "3234_3234160_p2.pdf", "mode": "visible", "why": "", "layer_words": 37, "coverage": {"recall": 0.5946, "precision": 0.9565}, "changes": [], "n_changes": 0}
+{"page": "3234_3234174_p1.pdf", "mode": "visible", "why": "", "layer_words": 186, "coverage": {"recall": 0.9409, "precision": 0.9309}, "changes": [], "n_changes": 0}
+{"page": "3234_3234179_p4.pdf", "mode": "visible", "why": "", "layer_words": 288, "coverage": {"recall": 0.9965, "precision": 0.9965}, "changes": [], "n_changes": 0}
+{"page": "3234_3234201_p1.pdf", "mode": "visible", "why": "", "layer_words": 144, "coverage": {"recall": 0.9236, "precision": 0.9638}, "changes": [["Dano-Diébourg-Gaoua-Batié-Kampti-Dissin", "Dano-DiébougouGaoua-BatiéKampti-Dissin"]], "n_changes": 1}
+{"page": "3234_3234203_p10.pdf", "mode": "visible", "why": "", "layer_words": 112, "coverage": {"recall": 1.0, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "3234_3234273_p1.pdf", "mode": "visible", "why": "", "layer_words": 253, "coverage": {"recall": 0.9644, "precision": 0.9313}, "changes": [], "n_changes": 0}
+{"page": "3234_3234422_p1.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "3234_3234442_p4.pdf", "mode": "visible", "why": "", "layer_words": 585, "coverage": {"recall": 0.9778, "precision": 0.9828}, "changes": [], "n_changes": 0}
+{"page": "3234_3234480_p1.pdf", "mode": "visible", "why": "", "layer_words": 582, "coverage": {"recall": 0.9794, "precision": 0.9965}, "changes": [], "n_changes": 0}
+{"page": "3234_3234504_p1.pdf", "mode": "visible", "why": "", "layer_words": 106, "coverage": {"recall": 0.9717, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "3234_3234511_p3.pdf", "mode": "visible", "why": "", "layer_words": 178, "coverage": {"recall": 0.4438, "precision": 0.7524}, "changes": [], "n_changes": 0}
+{"page": "3234_3234523_p27.pdf", "mode": "invisible", "why": "invisible OCR layer", "layer_words": 445, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "3234_3234528_p1.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "3234_3234532_p18.pdf", "mode": "invisible", "why": "invisible OCR layer", "layer_words": 17, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "3234_3234537_p2.pdf", "mode": "invisible", "why": "invisible OCR layer", "layer_words": 185, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "3234_3234546_p3.pdf", "mode": "visible", "why": "", "layer_words": 284, "coverage": {"recall": 0.9331, "precision": 0.9888}, "changes": [], "n_changes": 0}
+{"page": "3234_3234568_p9.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "3234_3234582_p14.pdf", "mode": "visible", "why": "", "layer_words": 82, "coverage": {"recall": 0.9268, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "3234_3234591_p3.pdf", "mode": "visible", "why": "", "layer_words": 228, "coverage": {"recall": 0.9825, "precision": 0.9912}, "changes": [], "n_changes": 0}
+{"page": "3234_3234620_p4.pdf", "mode": "visible", "why": "", "layer_words": 174, "coverage": {"recall": 0.9828, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "3234_3234631_p1.pdf", "mode": "visible", "why": "", "layer_words": 270, "coverage": {"recall": 1.0, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "3234_3234666_p23.pdf", "mode": "visible", "why": "", "layer_words": 48, "coverage": {"recall": 0.9583, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "3234_3234669_p6.pdf", "mode": "visible", "why": "", "layer_words": 216, "coverage": {"recall": 0.9722, "precision": 0.6863}, "changes": [], "n_changes": 0}
+{"page": "3234_3234688_p2.pdf", "mode": "visible", "why": "", "layer_words": 323, "coverage": {"recall": 0.9876, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "3234_3234782_p1.pdf", "mode": "visible", "why": "", "layer_words": 133, "coverage": {"recall": 0.9774, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "3234_3234792_p1.pdf", "mode": "visible", "why": "", "layer_words": 127, "coverage": {"recall": 0.8898, "precision": 0.9912}, "changes": [["McKenzie", "McKenzee"]], "n_changes": 1}
+{"page": "3234_3234824_p1.pdf", "mode": "visible", "why": "", "layer_words": 74, "coverage": {"recall": 0.3919, "precision": 0.7632}, "changes": [], "n_changes": 0}
+{"page": "3234_3234830_p19.pdf", "mode": "visible", "why": "", "layer_words": 281, "coverage": {"recall": 1.0, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "3234_3234847_p1.pdf", "mode": "visible", "why": "", "layer_words": 346, "coverage": {"recall": 0.9769, "precision": 0.9941}, "changes": [["promyelocytic", "promyleocytic"], ["Gutormsen", "Guttormsen"]], "n_changes": 2}
+{"page": "3234_3234897_p1.pdf", "mode": "visible", "why": "", "layer_words": 402, "coverage": {"recall": 0.9701, "precision": 0.9924}, "changes": [], "n_changes": 0}
+{"page": "3234_3234922_p1.pdf", "mode": "visible", "why": "", "layer_words": 80, "coverage": {"recall": 0.95, "precision": 0.9744}, "changes": [], "n_changes": 0}
+{"page": "5332_5332009_p1.pdf", "mode": "visible", "why": "too little text", "layer_words": 16, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "5332_5332026_p2.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "5332_5332049_p1.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "5332_5332094_p6.pdf", "mode": "visible", "why": "", "layer_words": 194, "coverage": {"recall": 0.9691, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "5332_5332101_p9.pdf", "mode": "visible", "why": "", "layer_words": 839, "coverage": {"recall": 0.9797, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "5332_5332116_p8.pdf", "mode": "visible", "why": "", "layer_words": 538, "coverage": {"recall": 0.9851, "precision": 0.987}, "changes": [["děti", "dětí"], ["dodoledne", "odpoledne"]], "n_changes": 2}
+{"page": "5332_5332138_p1.pdf", "mode": "visible", "why": "", "layer_words": 59, "coverage": {"recall": 1.0, "precision": 0.9516}, "changes": [], "n_changes": 0}
+{"page": "5332_5332145_p4.pdf", "mode": "visible", "why": "", "layer_words": 38, "coverage": {"recall": 0.6053, "precision": 0.7667}, "changes": [], "n_changes": 0}
+{"page": "5332_5332156_p2.pdf", "mode": "visible", "why": "", "layer_words": 31, "coverage": {"recall": 1.0, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "5332_5332157_p3.pdf", "mode": "visible", "why": "", "layer_words": 588, "coverage": {"recall": 0.9762, "precision": 0.9948}, "changes": [], "n_changes": 0}
+{"page": "5332_5332174_p1.pdf", "mode": "visible", "why": "", "layer_words": 272, "coverage": {"recall": 0.9485, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "5332_5332188_p1.pdf", "mode": "invisible", "why": "invisible OCR layer", "layer_words": 51, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "5332_5332306_p1.pdf", "mode": "visible", "why": "", "layer_words": 354, "coverage": {"recall": 0.8898, "precision": 0.9238}, "changes": [], "n_changes": 0}
+{"page": "5332_5332311_p1.pdf", "mode": "visible", "why": "", "layer_words": 137, "coverage": {"recall": 0.9635, "precision": 0.9362}, "changes": [], "n_changes": 0}
+{"page": "5332_5332350_p2.pdf", "mode": "visible", "why": "", "layer_words": 703, "coverage": {"recall": 0.99, "precision": 0.9929}, "changes": [], "n_changes": 0}
+{"page": "5332_5332363_p5.pdf", "mode": "visible", "why": "", "layer_words": 60, "coverage": {"recall": 1.0, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "5332_5332410_p1.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "5332_5332428_p23.pdf", "mode": "visible", "why": "", "layer_words": 179, "coverage": {"recall": 0.9274, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "5332_5332449_p1.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "5332_5332453_p1.pdf", "mode": "visible", "why": "", "layer_words": 385, "coverage": {"recall": 0.6, "precision": 0.7333}, "changes": [["冷凍鶏サミフィレ", "冷凍鶏ササミフィレ"]], "n_changes": 1}
+{"page": "5332_5332479_p1.pdf", "mode": "visible", "why": "", "layer_words": 251, "coverage": {"recall": 1.0, "precision": 0.9843}, "changes": [], "n_changes": 0}
+{"page": "5332_5332518_p1.pdf", "mode": "visible", "why": "", "layer_words": 100, "coverage": {"recall": 1.0, "precision": 0.2252}, "changes": [], "n_changes": 0}
+{"page": "5332_5332663_p7.pdf", "mode": "visible", "why": "", "layer_words": 161, "coverage": {"recall": 0.5963, "precision": 0.75}, "changes": [], "n_changes": 0}
+{"page": "5332_5332687_p11.pdf", "mode": "visible", "why": "", "layer_words": 276, "coverage": {"recall": 0.9457, "precision": 0.9962}, "changes": [], "n_changes": 0}
+{"page": "5332_5332705_p2.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "5332_5332707_p17.pdf", "mode": "visible", "why": "too little text", "layer_words": 15, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "5332_5332739_p1.pdf", "mode": "visible", "why": "", "layer_words": 168, "coverage": {"recall": 0.8512, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "5332_5332759_p1.pdf", "mode": "visible", "why": "", "layer_words": 1012, "coverage": {"recall": 0.9595, "precision": 0.9778}, "changes": [["unceasing", "uncapping"], ["HealthNet", "HealthDxS"], ["NSAC", "MSAC"], ["NSAC", "MSAC"], ["nifepristone-nisoprostol", "mifepristone-misoprostol"], ["STMs", "STDs"], ["STMs", "STDs"]], "n_changes": 7}
+{"page": "5332_5332775_p1.pdf", "mode": "visible", "why": "disagrees with the page reading", "layer_words": 116, "coverage": {"recall": 0.069, "precision": 0.0444}, "changes": [], "n_changes": 0}
+{"page": "5332_5332798_p1.pdf", "mode": "visible", "why": "", "layer_words": 261, "coverage": {"recall": 0.9387, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "5332_5332804_p1.pdf", "mode": "visible", "why": "", "layer_words": 289, "coverage": {"recall": 0.9827, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "5332_5332830_p21.pdf", "mode": "visible", "why": "", "layer_words": 224, "coverage": {"recall": 0.9732, "precision": 0.9397}, "changes": [], "n_changes": 0}
+{"page": "5332_5332891_p1.pdf", "mode": "visible", "why": "", "layer_words": 146, "coverage": {"recall": 0.9658, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "5332_5332910_p1.pdf", "mode": "visible", "why": "", "layer_words": 158, "coverage": {"recall": 0.7975, "precision": 0.9767}, "changes": [], "n_changes": 0}
+{"page": "5332_5332940_p1.pdf", "mode": "visible", "why": "", "layer_words": 1565, "coverage": {"recall": 0.9808, "precision": 0.9929}, "changes": [["UGCNETMANAGEMENT", "UGCNETMANAGEMANT"], ["Gujan", "Gunjan"], ["B.C.Tech", "B.Tech"]], "n_changes": 3}
+{"page": "5332_5332941_p2.pdf", "mode": "visible", "why": "", "layer_words": 43, "coverage": {"recall": 1.0, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "5332_5332947_p2.pdf", "mode": "visible", "why": "", "layer_words": 180, "coverage": {"recall": 0.8833, "precision": 0.9876}, "changes": [["Стекловолоконо", "Стекловолокно"]], "n_changes": 1}
+{"page": "5332_5332966_p12.pdf", "mode": "visible", "why": "", "layer_words": 206, "coverage": {"recall": 0.7961, "precision": 0.982}, "changes": [], "n_changes": 0}
+{"page": "5332_5332969_p2.pdf", "mode": "visible", "why": "too little text", "layer_words": 5, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "5332_5332996_p1.pdf", "mode": "visible", "why": "", "layer_words": 223, "coverage": {"recall": 0.9417, "precision": 0.9953}, "changes": [["готовы", "уготованы"]], "n_changes": 1}
+{"page": "7764_7764002_p3.pdf", "mode": "visible", "why": "", "layer_words": 210, "coverage": {"recall": 0.9905, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "7764_7764032_p1.pdf", "mode": "visible", "why": "", "layer_words": 40, "coverage": {"recall": 0.875, "precision": 0.8974}, "changes": [], "n_changes": 0}
+{"page": "7764_7764061_p4.pdf", "mode": "visible", "why": "", "layer_words": 330, "coverage": {"recall": 1.0, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "7764_7764080_p3.pdf", "mode": "visible", "why": "", "layer_words": 308, "coverage": {"recall": 0.9481, "precision": 0.9733}, "changes": [], "n_changes": 0}
+{"page": "7764_7764081_p3.pdf", "mode": "visible", "why": "", "layer_words": 789, "coverage": {"recall": 0.9721, "precision": 0.9922}, "changes": [], "n_changes": 0}
+{"page": "7764_7764082_p1.pdf", "mode": "visible", "why": "", "layer_words": 438, "coverage": {"recall": 0.9954, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "7764_7764111_p1.pdf", "mode": "visible", "why": "", "layer_words": 349, "coverage": {"recall": 0.9599, "precision": 0.997}, "changes": [], "n_changes": 0}
+{"page": "7764_7764115_p2.pdf", "mode": "visible", "why": "", "layer_words": 860, "coverage": {"recall": 0.6419, "precision": 0.9875}, "changes": [], "n_changes": 0}
+{"page": "7764_7764126_p25.pdf", "mode": "visible", "why": "", "layer_words": 145, "coverage": {"recall": 0.9724, "precision": 0.9792}, "changes": [], "n_changes": 0}
+{"page": "7764_7764169_p2.pdf", "mode": "visible", "why": "", "layer_words": 45, "coverage": {"recall": 0.4444, "precision": 0.7143}, "changes": [], "n_changes": 0}
+{"page": "7764_7764173_p2.pdf", "mode": "visible", "why": "", "layer_words": 1547, "coverage": {"recall": 0.9444, "precision": 0.9512}, "changes": [["ללקוח", "הלקוח"]], "n_changes": 1}
+{"page": "7764_7764188_p1.pdf", "mode": "visible", "why": "too little text", "layer_words": 19, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "7764_7764189_p2.pdf", "mode": "visible", "why": "", "layer_words": 618, "coverage": {"recall": 0.9935, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "7764_7764286_p2.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "7764_7764321_p18.pdf", "mode": "visible", "why": "", "layer_words": 458, "coverage": {"recall": 0.9913, "precision": 0.9934}, "changes": [["gnojibom", "gnojidbom"], ["intenzivnju", "intenzivniju"]], "n_changes": 2}
+{"page": "7764_7764337_p8.pdf", "mode": "visible", "why": "", "layer_words": 421, "coverage": {"recall": 0.9549, "precision": 0.9549}, "changes": [], "n_changes": 0}
+{"page": "7764_7764339_p1.pdf", "mode": "invisible", "why": "invisible OCR layer", "layer_words": 116, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "7764_7764359_p1.pdf", "mode": "visible", "why": "", "layer_words": 834, "coverage": {"recall": 0.9736, "precision": 0.9988}, "changes": [], "n_changes": 0}
+{"page": "7764_7764382_p1.pdf", "mode": "visible", "why": "", "layer_words": 25, "coverage": {"recall": 0.96, "precision": 0.8}, "changes": [], "n_changes": 0}
+{"page": "7764_7764387_p2.pdf", "mode": "visible", "why": "", "layer_words": 309, "coverage": {"recall": 0.9353, "precision": 0.9931}, "changes": [["Trigonometry", "Trigonomentry"]], "n_changes": 1}
+{"page": "7764_7764402_p7.pdf", "mode": "invisible", "why": "invisible OCR layer", "layer_words": 131, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "7764_7764430_p1.pdf", "mode": "visible", "why": "", "layer_words": 321, "coverage": {"recall": 0.9875, "precision": 0.9969}, "changes": [["erfolgversprechenden", "erfolgsversprechenden"]], "n_changes": 1}
+{"page": "7764_7764454_p1.pdf", "mode": "visible", "why": "", "layer_words": 546, "coverage": {"recall": 0.9963, "precision": 0.9963}, "changes": [["troppo", "troppi"], ["troppo", "troppi"]], "n_changes": 2}
+{"page": "7764_7764461_p11.pdf", "mode": "visible", "why": "", "layer_words": 205, "coverage": {"recall": 1.0, "precision": 0.9856}, "changes": [], "n_changes": 0}
+{"page": "7764_7764479_p2.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}
+{"page": "7764_7764538_p2.pdf", "mode": "visible", "why": "", "layer_words": 245, "coverage": {"recall": 0.9959, "precision": 0.9919}, "changes": [], "n_changes": 0}
+{"page": "7764_7764575_p1.pdf", "mode": "visible", "why": "", "layer_words": 21, "coverage": {"recall": 1.0, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "7764_7764670_p1.pdf", "mode": "visible", "why": "", "layer_words": 1376, "coverage": {"recall": 0.9804, "precision": 0.9941}, "changes": [["destroyed", "destoryed"], ["expensive", "exspensive"], ["Rodriguez", "Rodriquez"]], "n_changes": 3}
+{"page": "7764_7764682_p1.pdf", "mode": "visible", "why": "", "layer_words": 313, "coverage": {"recall": 0.9904, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "7764_7764729_p3.pdf", "mode": "visible", "why": "", "layer_words": 284, "coverage": {"recall": 0.9754, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "7764_7764732_p1.pdf", "mode": "visible", "why": "", "layer_words": 87, "coverage": {"recall": 1.0, "precision": 0.9775}, "changes": [], "n_changes": 0}
+{"page": "7764_7764745_p19.pdf", "mode": "visible", "why": "", "layer_words": 583, "coverage": {"recall": 0.9966, "precision": 0.9983}, "changes": [], "n_changes": 0}
+{"page": "7764_7764753_p3.pdf", "mode": "visible", "why": "", "layer_words": 422, "coverage": {"recall": 0.9621, "precision": 0.9951}, "changes": [["ordnungsge-mäische", "ordnungsgemäße"]], "n_changes": 1}
+{"page": "7764_7764767_p2.pdf", "mode": "visible", "why": "", "layer_words": 234, "coverage": {"recall": 1.0, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "7764_7764863_p2.pdf", "mode": "visible", "why": "", "layer_words": 192, "coverage": {"recall": 0.8177, "precision": 0.9812}, "changes": [], "n_changes": 0}
+{"page": "7764_7764908_p1.pdf", "mode": "visible", "why": "", "layer_words": 37, "coverage": {"recall": 0.8649, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "7764_7764910_p1.pdf", "mode": "visible", "why": "", "layer_words": 333, "coverage": {"recall": 0.985, "precision": 0.9939}, "changes": [], "n_changes": 0}
+{"page": "7764_7764923_p1.pdf", "mode": "visible", "why": "", "layer_words": 147, "coverage": {"recall": 0.8776, "precision": 0.9923}, "changes": [], "n_changes": 0}
+{"page": "7764_7764957_p6.pdf", "mode": "visible", "why": "", "layer_words": 58, "coverage": {"recall": 1.0, "precision": 1.0}, "changes": [], "n_changes": 0}
+{"page": "7764_7764962_p2.pdf", "mode": "none", "why": "no text layer", "layer_words": 0, "coverage": null, "changes": [], "n_changes": 0}

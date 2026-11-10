@@ -1,0 +1,31 @@
+# secrets
+.env
+.env.*
+# environments
+.venv/
+.venv-omni/
+__pycache__/
+*.pyc
+# large or re-downloadable
+data/
+!reports/external/data/
+vendor/
+results/
+runpod/_code*.tar.gz
+results_*.log
+learn/*.mp4
+# tool state
+.claude/scheduled_tasks.lock
+.DS_Store
+logs/
+
+# page renders for manual review and downloaded random PDFs (large, regenerable)
+failures/review/png/
+failures/review/*.png
+data/random_cc/
+data/stress/
+failures/review/crops/
+failures/review/ext/
+
+# page-level benchmark outputs (regenerate with bench/export_failures.py)
+failures/*/outputs/

@@ -1,0 +1,14 @@
+{
+  "stage1_reused_from": "modal_c3b_rcc",
+  "gpu12": "L40S",
+  "lt08_load_seconds": 195.6,
+  "stage1_seconds": 259.1,
+  "lt4_load_seconds": 170.2,
+  "stage2_seconds": 527.5,
+  "stages12_wall_seconds": 714.9,
+  "gpu3": "H200",
+  "pro_load_seconds": 255.8,
+  "stage3_seconds": 147.7,
+  "stage3_wall_seconds": 404.7,
+  "textlayer_seconds": 58.0
+}

@@ -1,0 +1,8 @@
+{
+  "service": "datalab",
+  "mode": "accurate",
+  "set": "stress",
+  "pages": 54,
+  "errors": 0,
+  "wall_seconds": 774.7
+}

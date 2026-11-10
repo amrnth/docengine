@@ -1,0 +1,8 @@
+{
+  "service": "datalab",
+  "mode": "accurate",
+  "set": "rcc",
+  "pages": 200,
+  "errors": 0,
+  "wall_seconds": 598.1
+}

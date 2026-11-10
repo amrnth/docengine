@@ -1,0 +1,8 @@
+{
+  "service": "reducto",
+  "mode": "r-1",
+  "set": "stress",
+  "pages": 54,
+  "errors": 0,
+  "wall_seconds": 129.1
+}

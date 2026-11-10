@@ -1,0 +1,27 @@
+{
+ "table_photo_chn_75": {
+  "n": 75,
+  "teds": 53.67,
+  "teds_s": 91.98
+ },
+ "table_photo_eng_75": {
+  "n": 75,
+  "teds": 58.92,
+  "teds_s": 86.67
+ },
+ "table_scan_chn_75": {
+  "n": 75,
+  "teds": 57.76,
+  "teds_s": 87.21
+ },
+ "table_scan_eng_75": {
+  "n": 75,
+  "teds": 63.13,
+  "teds_s": 91.58
+ },
+ "all": {
+  "n": 300,
+  "teds": 58.37,
+  "teds_s": 89.36
+ }
+}

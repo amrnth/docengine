@@ -1,0 +1,184 @@
+{
+ "n_tests": 8413,
+ "n_text_tests_checkable": 1100,
+ "rule_candidates": 37,
+ "rejected_by_eye": 5,
+ "wrong_text_tests": 32,
+ "wrong_header_footer_tests": 6,
+ "wrong_total": 38,
+ "wrong_by_category": {
+  "headers_footers": 6,
+  "multi_column": 28,
+  "long_tiny_text": 4
+ },
+ "points_locked_by_wrong_tests": 0.61,
+ "wrong_tests_passed_by": {
+  "casc20": 0,
+  "inf_flash": 1,
+  "inf_pro": 1,
+  "l08pro2": 1,
+  "lt08_u": 0,
+  "lt4": 0,
+  "lt4_u": 0,
+  "ltpro1": 0,
+  "modal_c3b2_olmocr": 0,
+  "modal_c3b_olmocr": 0,
+  "olm2_plain": 0,
+  "ovisocr2": 0,
+  "pipe_mask": 0,
+  "v2": 0
+ },
+ "failed_by_every_run": {
+  "arxiv_math": [
+   177,
+   2927
+  ],
+  "old_scans_math": [
+   33,
+   458
+  ],
+  "table_tests": [
+   41,
+   1022
+  ],
+  "old_scans": [
+   183,
+   526
+  ],
+  "headers_footers": [
+   11,
+   760
+  ],
+  "multi_column": [
+   96,
+   884
+  ],
+  "long_tiny_text": [
+   20,
+   442
+  ],
+  "baseline": [
+   0,
+   1394
+  ]
+ },
+ "failed_by_every_run_total": 561,
+ "best_of_all_runs_per_test": 91.4,
+ "best_of_all_runs_per_test_clean": 91.9,
+ "scores": {
+  "casc20": {
+   "full": 86.0,
+   "clean": 86.5
+  },
+  "inf_flash": {
+   "full": 84.3,
+   "clean": 84.9
+  },
+  "inf_pro": {
+   "full": 85.2,
+   "clean": 85.7
+  },
+  "l08pro2": {
+   "full": 86.6,
+   "clean": 87.1
+  },
+  "lt08_u": {
+   "full": 84.8,
+   "clean": 85.3
+  },
+  "lt4": {
+   "full": 85.3,
+   "clean": 85.8
+  },
+  "lt4_u": {
+   "full": 85.9,
+   "clean": 86.5
+  },
+  "ltpro1": {
+   "full": 86.7,
+   "clean": 87.3
+  },
+  "modal_c3b2_olmocr": {
+   "full": 86.9,
+   "clean": 87.4
+  },
+  "modal_c3b_olmocr": {
+   "full": 87.2,
+   "clean": 87.7
+  },
+  "olm2_plain": {
+   "full": 82.1,
+   "clean": 82.7
+  },
+  "ovisocr2": {
+   "full": 72.1,
+   "clean": 72.6
+  },
+  "pipe_mask": {
+   "full": 82.2,
+   "clean": 82.7
+  },
+  "v2": {
+   "full": 84.6,
+   "clean": 85.1
+  }
+ },
+ "paired_vs_c3b": {
+  "lt4_u": {
+   "diff": 1.24,
+   "ci95": [
+    0.45,
+    2.18
+   ],
+   "p": 0.0008
+  },
+  "inf_pro": {
+   "diff": 1.95,
+   "ci95": [
+    0.86,
+    3.22
+   ],
+   "p": 0.0
+  },
+  "lt08_u": {
+   "diff": 2.35,
+   "ci95": [
+    1.26,
+    3.78
+   ],
+   "p": 0.0
+  },
+  "inf_flash": {
+   "diff": 2.82,
+   "ci95": [
+    1.87,
+    3.85
+   ],
+   "p": 0.0
+  },
+  "olm2_plain": {
+   "diff": 5.06,
+   "ci95": [
+    3.76,
+    6.42
+   ],
+   "p": 0.0
+  },
+  "casc20": {
+   "diff": 1.19,
+   "ci95": [
+    0.5,
+    2.03
+   ],
+   "p": 0.0
+  },
+  "modal_c3b2_olmocr": {
+   "diff": 0.3,
+   "ci95": [
+    -0.13,
+    1.03
+   ],
+   "p": 0.4268
+  }
+ }
+}

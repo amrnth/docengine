@@ -1,0 +1,12 @@
+{
+  "gpu12": "L40S",
+  "lt08_load_seconds": 175.5,
+  "stage1_seconds": 1989.9,
+  "lt4_load_seconds": 165.1,
+  "stage2_seconds": 1326.0,
+  "stages12_wall_seconds": 3663.5,
+  "gpu3": "H200",
+  "pro_load_seconds": 220.7,
+  "stage3_seconds": 805.8,
+  "stage3_wall_seconds": 1027.5
+}

@@ -1,0 +1,2747 @@
+{
+"long_tiny_text|present|near(>=90)": [
+{
+"pdf": "long_tiny_text/20_pg39_pg1.pdf",
+"text": "Following Christmas Eve's Big Fat Quiz Of The Year, celebrity question-setters Jon Snow and Charles Dance (among others) tickle the much wider general knowledge of Sandi Toksvig - her Ql training coming in handy here - Joe Lycett, Katherine Ryan, David Baddiel, Frank Skinner and Big Narstie.",
+"before": null,
+"after": null,
+"explanation": "Expected 'Following Christmas Eve's Big Fat Quiz O...' with threshold 1.0 but best match ratio was 0.997"
+},
+{
+"pdf": "long_tiny_text/13_pg162_pg1.pdf",
+"text": "The Luther state offers the parish a selection from six names and then appoints the one chosen.",
+"before": null,
+"after": null,
+"explanation": "Expected 'The Luther state offers the parish a sel...' with threshold 1.0 but best match ratio was 0.947"
+},
+{
+"pdf": "long_tiny_text/20_pg32_pg1.pdf",
+"text": "Early on in the film, we hear her characterised as \"a witch\", an \"evil-doer\" and \"anti-American zombie\".",
+"before": null,
+"after": null,
+"explanation": "Expected 'Early on in the film, we hear her charac...' with threshold 0.9903846153846154 but best match ratio was 0.962"
+},
+{
+"pdf": "long_tiny_text/17_pg33_pg1.pdf",
+"text": "that purpose made such rapid progress nnder British rule that the revenue",
+"before": null,
+"after": null,
+"explanation": "Expected 'that purpose made such rapid progress nn...' with threshold 1.0 but best match ratio was 0.986"
+},
+{
+"pdf": "long_tiny_text/20_pg49_pg1.pdf",
+"text": "These esoteric instruments tradable permits to emit carbon dioxide have soared by 200 per cent in a year, a gain that is causing hand-wringing, nail-biting and even panic in businesses that consume a lot of energy.",
+"before": null,
+"after": null,
+"explanation": "Expected 'These esoteric instruments tradable perm...' with threshold 0.9906542056074766 but best match ratio was 0.981"
+},
+{
+"pdf": "long_tiny_text/20_pg18_pg1.pdf",
+"text": "appointments, Stuart Ackland suggests (Your View, 3 January) that patients have to make an advance credit debit card \"booking\", with a charge deducted for a no-show.",
+"before": null,
+"after": null,
+"explanation": "Expected 'appointments, Stuart Ackland suggests (Y...' with threshold 1.0 but best match ratio was 0.994"
+},
+{
+"pdf": "long_tiny_text/13_pg857_pg1.pdf",
+"text": "He died on the 6th of December 1734.",
+"before": null,
+"after": null,
+"explanation": "Expected 'He died on the 6th of December 1734....' with threshold 0.9722222222222222 but best match ratio was 0.972"
+},
+{
+"pdf": "long_tiny_text/16a_pg1.pdf",
+"text": "the bridge of Jason, slain by the magic of the jealous Medea.",
+"before": null,
+"after": null,
+"explanation": "Expected 'the bridge of Jason, slain by the magic ...' with threshold 1.0 but best match ratio was 0.984"
+},
+{
+"pdf": "long_tiny_text/16a_pg1.pdf",
+"text": "Cofficial who makes public announcements.",
+"before": null,
+"after": null,
+"explanation": "Expected 'Cofficial who makes public announcements...' with threshold 1.0 but best match ratio was 0.976"
+},
+{
+"pdf": "long_tiny_text/13_pg67_pg1.pdf",
+"text": "and in company with the comte d'Avaray-who subsequently",
+"before": null,
+"after": null,
+"explanation": "Expected 'and in company with the comte d'Avaray-w...' with threshold 0.9636363636363636 but best match ratio was 0.945"
+},
+{
+"pdf": "long_tiny_text/14e_pg1.pdf",
+"text": "It involves the use of a variety of techniques all designed to \"distance\" the audience from the play and to jolt it into realizing that it is watching a the-atrical performance; thus, the audience's de gree of emotional identification with charac ters and events is strictly controlled, and it can more objectively and clearly perceive the \"real\" world reflected in the drama.",
+"before": null,
+"after": null,
+"explanation": "Expected 'It involves the use of a variety of tech...' with threshold 1.0 but best match ratio was 0.992"
+},
+{
+"pdf": "long_tiny_text/14e_pg1.pdf",
+"text": "This treaty reaty may in time serve as a model to raise the so-called minimum standards in the treatment of aliens.",
+"before": null,
+"after": null,
+"explanation": "Expected 'This treaty reaty may in time serve as a...' with threshold 1.0 but best match ratio was 0.948"
+},
+{
+"pdf": "long_tiny_text/17_pg2_pg1.pdf",
+"text": "who ask, \"Who is Sir Salar Jung?,, And there are many thousands who",
+"before": null,
+"after": null,
+"explanation": "Expected 'who ask, \"Who is Sir Salar Jung?,, And t...' with threshold 1.0 but best match ratio was 0.985"
+},
+{
+"pdf": "long_tiny_text/10a_pg1.pdf",
+"text": "template /'templert/ noun [C] 1 a shape cut out of",
+"before": null,
+"after": null,
+"explanation": "Expected 'template /'templert/ noun [C] 1 a shape ...' with threshold 0.98 but best match ratio was 0.940"
+},
+{
+"pdf": "long_tiny_text/10a_pg1.pdf",
+"text": "tenant/'tenənt/ noun [C] a person who pays money",
+"before": null,
+"after": null,
+"explanation": "Expected 'tenant/'tenənt/ noun [C] a person who pa...' with threshold 1.0 but best match ratio was 0.938"
+},
+{
+"pdf": "long_tiny_text/10a_pg1.pdf",
+"text": "temporarily /'temprərəli/adv.",
+"before": null,
+"after": null,
+"explanation": "Expected 'temporarily /'temprərəli/adv....' with threshold 1.0 but best match ratio was 0.931"
+},
+{
+"pdf": "long_tiny_text/10a_pg1.pdf",
+"text": "temperament /'temprəmənt/ noun [C,U] a",
+"before": null,
+"after": null,
+"explanation": "Expected 'temperament /'temprəmənt/ noun [C,U] a...' with threshold 0.9736842105263158 but best match ratio was 0.974"
+},
+{
+"pdf": "long_tiny_text/11_pg421_pg1.pdf",
+"text": "To truss up, to tuck up the gown, &c.",
+"before": null,
+"after": null,
+"explanation": "Expected 'To truss up, to tuck up the gown, &c....' with threshold 1.0 but best match ratio was 0.973"
+},
+{
+"pdf": "long_tiny_text/11_pg146_pg1.pdf",
+"text": "somely before and upon his haunches, and av",
+"before": null,
+"after": null,
+"explanation": "Expected 'somely before and upon his haunches, and...' with threshold 0.9767441860465116 but best match ratio was 0.977"
+},
+{
+"pdf": "long_tiny_text/11_pg146_pg1.pdf",
+"text": "Dayly he propherld batayle: the enmys durst not fyghte",
+"before": null,
+"after": null,
+"explanation": "Expected 'Dayly he propherld batayle: the enmys du...' with threshold 1.0 but best match ratio was 0.963"
+},
+{
+"pdf": "long_tiny_text/12_pg81_pg1.pdf",
+"text": "Kofoid, E., Bergthorsson, U., Slechta, E.S., Roth, J.R., 2003. Formation of an F' plasmid by recombination between imperfectly repeated chromosomal Rep sequences: A closer look at an old friend (F'(128) pro lac).",
+"before": null,
+"after": null,
+"explanation": "Expected 'Kofoid, E., Bergthorsson, U., Slechta, E...' with threshold 0.9905660377358491 but best match ratio was 0.986"
+},
+{
+"pdf": "long_tiny_text/17_pg34_pg1.pdf",
+"text": "well acquainted with the facts has stated, in his ineresting letter to the Times, that when the Resident informed Sir Salar Jung of the fall of Delhi he was told that the news had been already known three days in Hyderabad,",
+"before": null,
+"after": null,
+"explanation": "Expected 'well acquainted with the facts has state...' with threshold 1.0 but best match ratio was 0.996"
+}
+],
+"long_tiny_text|present|partial(70-90)": [
+{
+"pdf": "long_tiny_text/16c_pg1.pdf",
+"text": "Dutch prelate: bishop of Tours 3707-397.",
+"before": null,
+"after": null,
+"explanation": "Expected 'Dutch prelate: bishop of Tours 3707-397....' with threshold 0.95 but best match ratio was 0.900"
+},
+{
+"pdf": "long_tiny_text/16b_pg1.pdf",
+"text": "des-ha-bille (dez'a bël, -bë), n. dishabille.",
+"before": null,
+"after": null,
+"explanation": "Expected 'des-ha-bille (dez'a bël, -bë), n. dishab...' with threshold 1.0 but best match ratio was 0.867"
+},
+{
+"pdf": "long_tiny_text/11_pg146_pg1.pdf",
+"text": "PERTE. (1) Το part. Still in use.",
+"before": null,
+"after": null,
+"explanation": "Expected 'PERTE. (1) Το part. Still in use....' with threshold 0.9696969696969697 but best match ratio was 0.939"
+},
+{
+"pdf": "long_tiny_text/11_pg146_pg1.pdf",
+"text": "PESIBLE. Peaceable. (A.-Ν.)",
+"before": null,
+"after": null,
+"explanation": "Expected 'PESIBLE. Peaceable. (A.-Ν.)...' with threshold 1.0 but best match ratio was 0.963"
+}
+],
+"multi_column|order|in_order_but_garbled": [
+{
+"pdf": "multi_column/02e31046996b59b4997b8413f09ae163ade5_page_2_pg1.pdf",
+"text": null,
+"before": "cia of quartz-monzodioritic (QMD) bulk composition and mineralogy, including regions of potassium feldspar-bearing granophyre (Jolliff et al. 1991; Jolliff 1991).",
+"after": "Sample 14161,7069 was derived from a rock that was brecciated by a meteorite impact at ~4 Ga.",
+"explanation": "'after' text 'Sample 14161,7069 was derived from a roc...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/0925342e1efabb7957efa34203f65d3cbc4d_page_6_pg1.pdf",
+"text": null,
+"before": "IGGCC completed the guide-lines in February 2008, which are posted at ",
+"after": "Districts that opt out must notify the state Department of Education.",
+"explanation": "'before' text 'IGGCC completed the guide-lines in Febru...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/0208fbb5d6b646f972f4702428ad2cede5c5_page_8_pg1.pdf",
+"text": null,
+"before": "It persisted for canopy cover of western wheatgrass, the most dominant individual perennial grass species (see Table 4).",
+"after": "Results indicate that the effectiveness of a 1987 surface application of gypsum in reducing spoil sodicity during 1988, 1989, and 1990 (Mehring 1991) induced a remarkably rapid enhancement of plant growth during these 3 years.",
+"explanation": "'after' text 'Results indicate that the effectiveness ...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0208fbb5d6b646f972f4702428ad2cede5c5_page_8_pg1.pdf",
+"text": null,
+"before": "Within each species, values followed by same letter are not significantly different at P ≤ 0.10.",
+"after": "Accurate field differentiation of these 2 species was not possible.",
+"explanation": "'before' text 'Within each species, values followed by ...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/02e31046996b59b4997b8413f09ae163ade5_page_2_pg1.pdf",
+"text": null,
+"before": "The different interference colors frequently observed in thin sections of zircon are known to be due to differing levels of α-decay damage.",
+"after": "~30% plagioclase",
+"explanation": "'before' text 'The different interference colors freque...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/06df5e530c2ccb0310a3205586a37d4b9b7d_page_4_pg1.pdf",
+"text": null,
+"before": "Estas cifras nos indican que el problema de los hogares españoles para acceder a alimentos adecuados es estructural y no está directamente ligado a crisis coyunturales.",
+"after": "En respuesta a ello, desde nuestra organización hemos puesto nuestro conocimiento y experiencia en el desarrollo de un sistema de alerta temprana que nos permita detectar el riesgo de inseguridad alimentaria y así anticiparnos para diseñar los programas e intervenciones adecuados.",
+"explanation": "'before' text 'Estas cifras nos indican que el problema...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0da8fcaacd0a502c317f9d222a55ffbb81e1_page_7_pg1.pdf",
+"text": null,
+"before": "Riera-Torres, M., Gutiérrez-Bouzán, C. & Crespi, M. 2010 Combination of coagulation-flocculation and nanofiltration techniques for dye removal and water reuse in textile industries.",
+"after": "Desalination 252 (1-3), 53-59.",
+"explanation": "'before' text 'Riera-Torres, M., Gutiérrez-Bouzán, C. &...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/07f4d706dd1736e247163f0128702c65bdd8_page_2_pg1.pdf",
+"text": null,
+"before": "Patients who experienced clinical events within the first year after DES implantation were included in this study.",
+"after": "Continuous variables were compared using Student t tests, paired t tests, or 1-way ANOVA, as appropriate.",
+"explanation": "'after' text 'Continuous variables were compared using...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/07f4d706dd1736e247163f0128702c65bdd8_page_2_pg1.pdf",
+"text": null,
+"before": "who underwent drug-eluting stents implantation because of stenosis of de novo lesions and 52 patients (55 lesions) with postintervention OCT alone, excluding 351 study patients.",
+"after": "Statistical analyses were performed using the software program SPSS (version 20.0, Chicago, IL), and P<0.05 was considered statistically significant.",
+"explanation": "'after' text 'Statistical analyses were performed usin...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/02a3e23da54b82c414d272051b0b5d8f44d8_page_14_pg1.pdf",
+"text": null,
+"before": "Pandangan Hardianti, SE Kasubag.",
+"after": "Kita sebenarnya terus mendorong untuk tumbuhnya inovasi dan kreativitas pegawai, dengan syarat tidak untuk kepentingan pribadi.",
+"explanation": "'after' text 'Kita sebenarnya terus mendorong untuk tu...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/02a3e23da54b82c414d272051b0b5d8f44d8_page_14_pg1.pdf",
+"text": null,
+"before": "Dapat disimpulkan kalau sebagian besar pejabat pemda banyak yang tidak mengetahui dan memahami idi dan konsep pemerintahan yang bergaya wirausaha.",
+"after": "(Hasil wawancara penulis, 10 September 2013)",
+"explanation": "'before' text 'Dapat disimpulkan kalau sebagian besar p...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0005784d0d255f6652180433936fa2998188_page_4_pg1.pdf",
+"text": null,
+"before": "By the way, would you mind [...]\" Another important question is how to automatically coordinate the robot's physical pointing gestures when repeating phrases or when phrases are interrupted.",
+"after": "Further tuning of the timings of the pauses, contingent on the dialog state and expectations about when the attention might return, as well as a tighter integration with the engagement model might be warranted.",
+"explanation": "'after' text 'Further tuning of the timings of the pau...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/0083fb2109e58be50aec2eca07fcbfe1230b_page_5_pg1.pdf",
+"text": null,
+"before": "*Net capital gain does not include any amount that a taxpayer elects under section 163(d) to treat as investment income for purposes of the investment interest expense limitation.",
+"after": "The other $8,000 ($20,000 - $12,000) of itemized deductions are directly allocable to the income on Form 1116, line 1.",
+"explanation": "'after' text 'The other $8,000 ($20,000 - $12,000) of ...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0a7e813e2010ecd8239725c32c859fe00c92_page_2_pg1.pdf",
+"text": null,
+"before": "A ovi ljudi u trajnhu - oni su jedva izdržali da ne eksplodira-ju od smijeha.",
+"after": "Uživala sam u tom poslu.",
+"explanation": "'before' text 'A ovi ljudi u trajnhu - oni su jedva izd...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/0a7e813e2010ecd8239725c32c859fe00c92_page_2_pg1.pdf",
+"text": null,
+"before": "Meni je to bilo užasno žao.",
+"after": "On me je blijedo gledao, uopće nije razumio o čemu ja govorim, pitao me Zar se ti možda bojiš da ćeš u tom debelom štoftu izgledati deblje?",
+"explanation": "'before' text 'Meni je to bilo užasno žao....' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0a7e813e2010ecd8239725c32c859fe00c92_page_2_pg1.pdf",
+"text": null,
+"before": "A onda se jednom dogodila iznimno komična situacija: pokraj prvog čina, za vrijeme dramske pauze, najjednoput erno čuli hihotanje: vatrogasac je zaspao gore na mostu.",
+"after": "Rekao je da on ne razumije da on nikada ne bi mogao biti glumac jer mi moramo iz večeri u večer igrati jednu te istu predstavu, kako da mu znao da predstava tek nakon premijere započinje svoj život.",
+"explanation": "'before' text 'A onda se jednom dogodila iznimno komičn...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0a7e813e2010ecd8239725c32c859fe00c92_page_2_pg1.pdf",
+"text": null,
+"before": "Mene je jako začudilo da jedan muški redatelj nije imao sluha za potrebbe glumice.",
+"after": "Tamo sam igrala Maju Rubek, ženu slavnog umjetnika, ali starca.",
+"explanation": "'before' text 'Mene je jako začudilo da jedan muški red...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/07070be1377058b90fd5fce677361eda4e3f_page_9_pg1.pdf",
+"text": null,
+"before": "ARTIS is a research team of the INRIA Rhône-Alpes, part of the LJK;",
+"after": "LJK is UMR 5224, a joint research laboratory of CNRS, INRIA, INPG, U. Grenoble I and U. Grenoble II.",
+"explanation": "'before' text 'ARTIS is a research team of the INRIA Rh...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/02a3e23da54b82c414d272051b0b5d8f44d8_page_16_pg1.pdf",
+"text": null,
+"before": "Berikut ini wawancara penulis Bapak Marjam Wali, S.Sos., M.Msir selaku Staf Ahli Bupati bidang Pembangunan di Sekretariat Daerah Kabupaten Buton sebagai berikut:",
+"after": "Uang insentif tambahan penghasilan buat pegawai pembagiannya sama rata saja, Tidak ada pemikiran untuk mengubah kebiasaan yang sudah mengakar dalam organisasi pemerintah daerah.\"",
+"explanation": "'before' text 'Berikut ini wawancara penulis Bapak Marj...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/02a3e23da54b82c414d272051b0b5d8f44d8_page_16_pg1.pdf",
+"text": null,
+"before": "Keluwesan pada aturan, inovasi, kreativitas, efisiensi, efektivitas dan akuntabilitas selalu menjadi pendorong untuk terciptanya pemerintahan yang bergaya wirausaha selama tidak bertentangan dengan misi yang diemban organisasi.",
+"after": "Dari hasil penilaian tersebut terlihat bahwa pemerintah belum mengembangkan bentuk dan sifat komunikasi dua arah dan terbuka dalam suasana kerja yang kondusif.",
+"explanation": "'before' text 'Keluwesan pada aturan, inovasi, kreativi...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/09f801e3a2ec90ef456d34ad571a46f36fce_page_18_pg1.pdf",
+"text": null,
+"before": "Loi NOTRe et déménagement des territoires",
+"after": "Justement, prenons l'exemple de l'Aide à l'Immobilier d'Entreprises (AIE) auparavant gérée par les Services Économiques du Département.",
+"explanation": "'before' text 'Loi NOTRe et déménagement des territoire...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/09f801e3a2ec90ef456d34ad571a46f36fce_page_18_pg1.pdf",
+"text": null,
+"before": "Eh oui, l'État est tellement solidaire qu'il laisse la contrainte et son lourd budget à l'échelle départementale tout en baissant ses dotations !",
+"after": "Oui, faire confiance aussi aux Jurassiens, héritiers d'une riche et intense histoire - des Jurassiens qui souhaitent continuer à l'écrire.",
+"explanation": "'before' text 'Eh oui, l'État est tellement solidaire q...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/075cc4e94eb8bdd518b96fc27aaef00a64c8_page_11_pg1.pdf",
+"text": null,
+"before": "Another approach is to thoroughly review systems, starting at the top with headaches, moving on to upper respiratory and breathing problems, gastrointestinal issues, and sexual partners/urination.",
+"after": "is incumbent upon us to coordinate the management of this condition",
+"explanation": "'before' text 'Another approach is to thoroughly review...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/07c14b471fd33c56b988cc7a58dae211d16f_page_13_pg1.pdf",
+"text": null,
+"before": "heap 406 (step 902). The system also updates status word 504 to indicate that speculative thread203 has written to the object if Such updating is necessary(step 903). ",
+"after": "Extension to Additional Speculative Threads",
+"explanation": "'before' text 'heap 406 (step 902). The system also upd...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/07c14b471fd33c56b988cc7a58dae211d16f_page_13_pg1.pdf",
+"text": null,
+"before": "(step 1202). This reference may be a read or a write operation.",
+"after": "In the case of a field number, the system performs a modulo operation by masking off all but the lower order three bits of field number 1302 to produce a three bit index (0,1,1) that specifies a marking bit.",
+"explanation": "'after' text 'In the case of a field number, the syste...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/028649690bbc67fe3ba040b4b2bf6c37f487_page_29_pg1.pdf",
+"text": null,
+"before": "Definitions",
+"after": "Infrastructure",
+"explanation": "'before' text 'Definitions...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0a2b678b6c6825364a5a18154dd59064922e_page_1_pg1.pdf",
+"text": null,
+"before": "During cell division, it allows only one DNA replication per cycle.",
+"after": "11-13 Additionally, MCM proteins are utilized as markers for the diagnosis of invasive cancer and carcinoma in situ.",
+"explanation": "'after' text '11-13 Additionally, MCM proteins are uti...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/065d792cf3923fc76a17183cfd13480cd51d_page_9_pg1.pdf",
+"text": null,
+"before": "Spritzgeräte s. Pflanzenschutztechnik (einschl. Geräte)",
+"after": "Strohund Heupressen, Brikettierung s. Pressen",
+"explanation": "'after' text 'Strohund Heupressen, Brikettierung s. Pr...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/065d792cf3923fc76a17183cfd13480cd51d_page_9_pg1.pdf",
+"text": null,
+"before": "Stalldünger s. Düngung, Dünger (einschl. Ver­teilung) und s. Viehhaltung",
+"after": "Internationaler CIGR-Kongreß für Agrar­technik, 4.-8. Sept. 1989 in Dublin R S. 70/71",
+"explanation": "'after' text 'Internationaler CIGR-Kongreß für Agrar­t...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/031a888e402c82517f213222ae97147dd7dc_page_2_pg1.pdf",
+"text": null,
+"before": "is the covariance matrix of the feature vectors of both windows together, and d is the dimension of the feature vectors.",
+"after": "For that reason the conjunction in (2) was substituted with the disjunction, i.e. a local maximum was regarded as a potential speaker change point if it satisfied the condition",
+"explanation": "'before' text 'is the covariance matrix of the feature ...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/00d8a44d3066bbc4bd8df149d0dafb96f423_page_1_pg1.pdf",
+"text": null,
+"before": "논문 [2]는 제어 공학 분야에서 학생들의 학습 환경을 효과적으로 스프레드시트 기반의 비례항, 적분, 미분계수 제어 시뮬레이션 시스템을 모바일에서 개발, 구현 및 평가하였다.",
+"after": "그리고 개발된 모바일 스프레드시트 시스템은 네트웍의 소용량기의 모바일 장치에서 식업이 가능하다.",
+"explanation": "'before' text '논문 [2]는 제어 공학 분야에서 학생들의 학습 환경을 효과적으로 스프레...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/02a3e23da54b82c414d272051b0b5d8f44d8_page_17_pg1.pdf",
+"text": null,
+"before": "Budaya yang berkembang dalam sebuah lingkungan akan menentukan cara pandang seseorang terhadap sesuatu hal.",
+"after": "Kendati pandangan pejabat pemerintah daerah Kabupaten Buton tidak merepresentasikan pandangan pejabat birokrasi, temuan dari penelitian ini setidak-tidaknya memberikan gambaran mengenai rendahnya pengetahuan pejabat birokrasi terhadap ide, konsep maupun paradigma baru penyelenggaraan pemerintahan modern.",
+"explanation": "'before' text 'Budaya yang berkembang dalam sebuah ling...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/02a3e23da54b82c414d272051b0b5d8f44d8_page_17_pg1.pdf",
+"text": null,
+"before": "Hal ini dikarenakan pengembangan budaya merupakan suatu yang sangat sulit dan memerlukan waktu yang cukup lama.",
+"after": "Hubungan antara atasan dan bawahan yang kaku, komunikasi searah yang tidak sehat, sistem insentif yang tidak menumbuhkan inovasi dari kreativitas pejabat menyebabkan rasa malas dari setiap pejabat untuk mengembangkan pengetahuannya.",
+"explanation": "'after' text 'Hubungan antara atasan dan bawahan yang ...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/02a3e23da54b82c414d272051b0b5d8f44d8_page_17_pg1.pdf",
+"text": null,
+"before": "Dilihat dari semua indikator yang digunakan dalam penelitian ini, pemahaman dan pengetahuan pejabat pemda Kabupaten Buton terhadap konsep pemerintahan yang bergaya wirausaha (entrepreneurial government) masih sangat rendah, sebagaimana ditunjukkan dengan rendahnya pemahaman dan pengetahuan tentang prinsip costumer oriented (pemerintah yang berorientasi pada masyarakat).",
+"after": "Dalam laporan ini ditemukan bahwa yang mengikuti seminar-seminar, lokakarya dan diklat-diklat fungsional hanya untuk pejabat eselon III yang dekat dengan Kabupaten dan untuk pejabat eselon II sedangkan pejabat eselon IV jarang sekali mengikutinya.",
+"explanation": "'after' text 'Dalam laporan ini ditemukan bahwa yang m...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0b045ab838c05c4ff1ac844caf826f8f368d_page_26_pg1.pdf",
+"text": null,
+"before": "The Chief Human Resources, Lt Gen Norman Yengeni, recently",
+"after": "also extended his salutationsto the partners and families of theawarded recipients.",
+"explanation": "'after' text 'also extended his salutationsto the part...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/00e2c7719d58bb49fd4031cce9dcccdddec2_page_4_pg1.pdf",
+"text": null,
+"before": "This questionnaire was based on the UNICEF Multiple Indicator Cluster Survey (UNICEF, 2012a,b) and also included themes regarding the country, culture, and survey goals.",
+"after": "The Mann-Whitney U test, chi-square test, and Fisher's exact test were used to compare the outcomes between the experimental and control villages.",
+"explanation": "'after' text 'The Mann-Whitney U test, chi-square test...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/03b953c18a4f7d2bbe390940dec839395cdd_page_37_pg1.pdf",
+"text": null,
+"before": "The Civil Aviation Registry in Oklahoma City manages and operates the national records system and database for the issue of all FAA airman certificates and the legal content of all airman certification records.",
+"after": "For airmen, Privacy Act information is not included, and addresses are not shown for airmen who chose not to have their address released.",
+"explanation": "'before' text 'The Civil Aviation Registry in Oklahoma ...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0904c7071324813f138e96ed004bbc613748_page_5_pg1.pdf",
+"text": null,
+"before": "The backward wave still has a single resonance situated, as before, inside the velocity layer.",
+"after": "with respect to r at the resonance inside the velocity layer, located around r = R (for both the forward and backward waves), become very large (in absolute value) for small",
+"explanation": "'after' text 'with respect to r at the resonance insid...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/019a8841dddeb304774ba62a9f5d8dccb43d_page_1_pg1.pdf",
+"text": null,
+"before": "Vingt deux patients avaient été vaccinés contre le VHB et présentaient des taux résiduels comparables à ceux observés chez 372 patients VIH négatifs ayant consulté dans un CDAG (groupe contrôle).",
+"after": "La présence d'une dynamine 2 anormale pourrait être nécessaire à l'endocytose du récepteur du G-CSF (granulocyte colony-stimulating factor) qui joue un rôle primordial dans la prolifération, la maturation et la survie des polynucléaires neutrophiles.",
+"explanation": "'after' text 'La présence d'une dynamine 2 anormale po...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0621a0090414e4681e90a4e1ea543acca910_page_18_pg1.pdf",
+"text": null,
+"before": "Ces occurrences ont des liens étroits avec les branches initiales 11 et 12 des décors végétalisés du Bronze final IIa (voir supra et fig. 8).",
+"after": "L'étude comparative des arbres stylistiques",
+"explanation": "'after' text 'L'étude comparative des arbres stylistiq...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/0621a0090414e4681e90a4e1ea543acca910_page_31_pg1.pdf",
+"text": null,
+"before": "David-Elbiali M. (2000) - La Suisse occidentale au IIe millénaire av.",
+"after": "Georges V. (2009) - Le Forez du VI e au I er millénaire av.",
+"explanation": "'before' text 'David-Elbiali M. (2000) - La Suisse occi...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/0621a0090414e4681e90a4e1ea543acca910_page_31_pg1.pdf",
+"text": null,
+"before": "Cupitò M. (2012) - Dinamiche costruttive e di degrado del sistema aggere-fossato della terramara di Castione dei Marchesi (Parma).",
+"after": "J.-C. : chronologie, culture, intégration européenne, Lausanne, CAR (Cahiers d'archéologie romande, 80), 570 p.",
+"explanation": "'before' text 'Cupitò M. (2012) - Dinamiche costruttive...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/0621a0090414e4681e90a4e1ea543acca910_page_31_pg1.pdf",
+"text": null,
+"before": "Courtois J.-C. (1960a) - L'âge du Bronze dans les Hautes-Alpes, Gallia Préhistoire, 3, p. 47-108.",
+"after": "Delaporte Y. (1991) - Les vêtements : les sociétés traditionnelles, in J. Poirier (dir.), Histoire des mœurs, 1.",
+"explanation": "'before' text 'Courtois J.-C. (1960a) - L'âge du Bronze...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0621a0090414e4681e90a4e1ea543acca910_page_31_pg1.pdf",
+"text": null,
+"before": "Courtois J.-C. (1960b) - Les dépôts de fondeur de Vernaison (Rhône) et de la Poype-Vaugris (Isère), Cahiers rhodaniens, 7, p. 3-25.",
+"after": "Eagleman D. (2013) - Incognito : les vies secrètes du cerveau, Paris, Robert Laffont, 349 p.",
+"explanation": "'before' text 'Courtois J.-C. (1960b) - Les dépôts de f...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/0904c7071324813f138e96ed004bbc613748_page_6_pg1.pdf",
+"text": null,
+"before": "Note that this is twice the damping rate of the situation with a very smooth velocity profile (see Eq. (28)) when",
+"after": "It is known that without flows this approximation works very well even for thick layers.",
+"explanation": "'before' text 'Note that this is twice the damping rate...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/05eac72b90295dbb76786d1fe5e2fe0db27d_page_6_pg1.pdf",
+"text": null,
+"before": "Motion parameters were used as covariates within this model to remove the influence subject motion on the subsequent results.",
+"after": "One-sample t-tests revealed that translational and rotational movements were significantly less (p < 0.05) than criterion for all axes and conditions except Z-axis translations",
+"explanation": "'before' text 'Motion parameters were used as covariate...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/00f6c2eea6b51fb1bf637b5f8a850588d7e2_page_13_pg1.pdf",
+"text": null,
+"before": "[46] Barkschat R (2021) The constant Q transform.",
+"after": "In Proceedings of the 2016 conference of the North American chapter of the association for computational linguistics: human language technologies, pp 1480-1489.",
+"explanation": "'before' text '[46] Barkschat R (2021) The constant Q t...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/00f6c2eea6b51fb1bf637b5f8a850588d7e2_page_13_pg1.pdf",
+"text": null,
+"before": "[35] Baranisak RK, Delo EJ (2021) Frequency domain-based detection of generated audio.",
+"after": "[49] Wang M, Wang R, Zhang XL, Rahardja S (2019, November) Hybrid constant-Q transform based CNN ensemble for acoustic scene classification.",
+"explanation": "'before' text '[35] Baranisak RK, Delo EJ (2021) Freque...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/00f6c2eea6b51fb1bf637b5f8a850588d7e2_page_13_pg1.pdf",
+"text": null,
+"before": "[38] Huang F, Yao CM (2020) Audio replay spoof attack detection by joint segment-based linear filter bank feature extraction and attention-enhanced DenseNet-BiLSTM network.",
+"after": "[59] Hu Y, Wodey S (2019) The real-world-weight cross-entropy loss function: modeling the costs of mislabeling.",
+"explanation": "'before' text '[38] Huang F, Yao CM (2020) Audio replay...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/00f6c2eea6b51fb1bf637b5f8a850588d7e2_page_13_pg1.pdf",
+"text": null,
+"before": "[50] Chollet F (2017) Xception: deep learning with depthwise separable convolutions.",
+"after": "[60] Khalid H, Woo SS, Lip Tang S, SS (2020, October) Evaluation of an audio-video multimodal deepfake dataset using unimodal and multimodal detectors.",
+"explanation": "'after' text '[60] Khalid H, Woo SS, Lip Tang S, SS (2...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/068682d533c39f817bd7855be4760d9a56ef_page_3_pg1.pdf",
+"text": null,
+"before": "It is thus recommended that the specifications to be enforced to the lowest possible frequency",
+"after": "rough an appropriate transformation, the fourtransfer functions in the closed-loop transfer matrix arederived as",
+"explanation": "'after' text 'rough an appropriate transformation, the...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/027c390510b2fd3364f5a382f2bc304af018_page_4_pg1.pdf",
+"text": null,
+"before": "Although the odds ratio was reduced after adjusting for the confounders; age, sex, smoking, alcoholism, BMI yet the level of significance was constant.",
+"after": "when possible confounderswere controlled, the odds ratio was found",
+"explanation": "'after' text 'when possible confounderswere controlled...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/031262e6346a8b7db19239800839b132c1ce_page_8_pg1.pdf",
+"text": null,
+"before": "Richard Wagner, il-ġenju mużikali Ġermaniż li ta kontribut kbir għall-mużika operistika kif ukoll għal-litteratura.",
+"after": "Sena wara, Wagner kien ħareġ bil-kompożizzjoni ta' Sinfonija in Do maggiore, liema sinfonija smajt u li verament għoġbitni u nirrakkomanda lill-qarrejja biex jisimgħu.",
+"explanation": "'after' text 'Sena wara, Wagner kien ħareġ bil-kompożi...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/031262e6346a8b7db19239800839b132c1ce_page_8_pg1.pdf",
+"text": null,
+"before": "F'dan l-artiklu li jmiss, iddecidejt li nibiddel ix-xenarju, l-ambjent, u n-nazzjonalità' tal-kompożitur li jmiss.",
+"after": "Wara l-għajnuna ta' Giacomo Meyerbeer, kompożitur ieħor famuż li d-darba jġib ix-xorti f'din ir-rokna, Wagner esebixxa l-opra Rienzi b'suċċess kbir.",
+"explanation": "'after' text 'Wara l-għajnuna ta' Giacomo Meyerbeer, k...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/0853d8a05fd1e839887d4bc3004a6770cb7b_page_2_pg1.pdf",
+"text": null,
+"before": "We analyze the LCT attack on a noised pseudorandom sequence generator involving a primitive known as",
+"after": "The process of discarding bits in this way is called non-uniform decimation of the sequence",
+"explanation": "'after' text 'The process of discarding bits in this w...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/0853d8a05fd1e839887d4bc3004a6770cb7b_page_2_pg1.pdf",
+"text": null,
+"before": "be k = 2 and the tap positions are the first and the second (from the left).",
+"after": "There is no noise and the right initial state of",
+"explanation": "'before' text 'be k = 2 and the tap positions are the f...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/0853d8a05fd1e839887d4bc3004a6770cb7b_page_2_pg1.pdf",
+"text": null,
+"before": "that represents the number of bits from the sequence",
+"after": "In the LCT attack against the generator without noise, the so-called decimation sequence is generated, containing the symbol '2' in the positions of the unknown bits.",
+"explanation": "'after' text 'In the LCT attack against the generator ...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/027880a87e3c2ad4cf8c05f477597c0c6da7_page_6_pg1.pdf",
+"text": null,
+"before": "had reached the minimum at t = 10 h, the optical density increased linearly over time.",
+"after": "gen mass transfer characteristics, i.e., gassing rate/culture volume ratio and mixing intensity (number of impellers), steady p H₂ values were obtained during the linear growth phase that ranged between 1 and 59 kPa.",
+"explanation": "'before' text 'had reached the minimum at t = 10 h, the...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/00f6c2eea6b51fb1bf637b5f8a850588d7e2_page_8_pg1.pdf",
+"text": null,
+"before": "where u t is a result of feeding a hidden vector h t into a single-layer Multi-Layer Perceptron (MLP) with the tanh",
+"after": "Its performance is assessed using the following evaluation metrics [56]:",
+"explanation": "'before' text 'where u t is a result of feeding a hidde...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/00f6c2eea6b51fb1bf637b5f8a850588d7e2_page_8_pg1.pdf",
+"text": null,
+"before": "They suffer from flickering and discontinuity of the face frames and lack of normal emotions, breathing, pauses, and the pace at which the target subject speaks among audio segments.",
+"after": "The symbol S(.) represents the sigmoid function, tanh(.) represents the Hyperbolic Tangent,",
+"explanation": "'after' text 'The symbol S(.) represents the sigmoid f...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/00f6c2eea6b51fb1bf637b5f8a850588d7e2_page_8_pg1.pdf",
+"text": null,
+"before": "As can be seen in Fig. 4, a single GRU is applied to the above-mentioned feature representations on the three levels.",
+"after": "The symbol alpha t represents the normalized attention weights that are produced by applying the softmax layer to",
+"explanation": "'after' text 'The symbol alpha t represents the normal...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0621a0090414e4681e90a4e1ea543acca910_page_34_pg1.pdf",
+"text": null,
+"before": "ROUDIL J.-L. (1972) - L'âge du Bronze du Languedoc oriental, Paris, Klincksieck (Mémoires de la Société préhistorique française, 10), 302 p.",
+"after": "ROUSSOT-LARROQUE J. (1998) - Le Sud-Ouest de la France, in J. Kozlowski (dir.), Atlas du Néolithique européen, 2, L'Europe occidentale, Liège, l'université de Liège (ERAUL, 46, 2b), p. 689-761.",
+"explanation": "'after' text 'ROUSSOT-LARROQUE J. (1998) - Le Sud-Oues...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0621a0090414e4681e90a4e1ea543acca910_page_34_pg1.pdf",
+"text": null,
+"before": "ROTTIER S., PIETTE J., MORDANT C. (2012) - Archéologie funéraire du Bronze final dans les vallées de l'Yonne et de la haute Seine : les nécropoles de Barbey, Barbuise et La Saulsotte, Dijon, Éd. universitaires de Dijon (Art, archéologie & patrimoine), 790 p.",
+"after": "THEVENOT J.-P. (1969) - Éléments chasséens de la céramique de Chassey, Revue archéologique de l'Est de la France, 20, 1-4, p. 7-95.",
+"explanation": "'before' text 'ROTTIER S., PIETTE J., MORDANT C. (2012)...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/00d8a44d3066bbc4bd8df149d0dafb96f423_page_3_pg1.pdf",
+"text": null,
+"before": "그리고 PDA 디바이스에서는 장치 데이터 수신 모듈을 통해서 수신 데이터를 확득하고 PDA 디바이스에 디스플레이 한다.",
+"after": "그림 5(a)~그림 5(b)는 그림 4와",
+"explanation": "'before' text '그리고 PDA 디바이스에서는 장치 데이터 수신 모듈을 통해서 수신 데이터...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/00d8a44d3066bbc4bd8df149d0dafb96f423_page_3_pg1.pdf",
+"text": null,
+"before": "서버측에서 RS-232C를 통해 각 장치의 데이터를 수집하고, PDA Unit에서 무선의 TCP/IP 프로토콜을 통해서 데이터 처리 과정을 수행한다.",
+"after": "실험 결과 그림 4(a)는 서버측의 어플리케이션으로 \"환경점속주소\"인 무선의 PDA가 접속된 상태를 나타내고, 그림 4(b)는 PDA 어플리케이션에서 \"Abort\" 버튼을 선택했을 때의 상태 정보를 나타내고 있다.",
+"explanation": "'before' text '서버측에서 RS-232C를 통해 각 장치의 데이터를 수집하고, PDA U...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/00d8a44d3066bbc4bd8df149d0dafb96f423_page_3_pg1.pdf",
+"text": null,
+"before": "처리된 데이터는 실시간으로 PDA에 디스플레이하고, 사용자는 PDA를 통해서 각 장치에 대한 제어 명령을 서버측으로 전송한다.",
+"after": "따라서 클라이언트측의 PDA 장치에서 서버측의 컴퓨터에 접속하여 제어 명령을 송신하면 서버측 컴퓨터는 장치 데이터 수신 모듈을 통해서 제어 명령을 수신하고 수집한 데이터를 원격 PDA 디바이스 측으로 전송한다.",
+"explanation": "'before' text '처리된 데이터는 실시간으로 PDA에 디스플레이하고, 사용자는 PDA를 통...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/00d8a44d3066bbc4bd8df149d0dafb96f423_page_3_pg1.pdf",
+"text": null,
+"before": "2.2 플라이언트측 모듈",
+"after": "환경 장치 데이터 모니터링 수행 절차",
+"explanation": "'after' text '환경 장치 데이터 모니터링 수행 절차...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0dd31f954c25db440baccc3245daf51b4b55_page_2_pg1.pdf",
+"text": null,
+"before": "14.30 - 15.10 Taj Khan Kalas",
+"after": "Unblocking the Blockage between Earth and Heaven: Shamanismas Cultural Intimacy in China",
+"explanation": "'after' text 'Unblocking the Blockage between Earth an...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/069577d83be73a2373200ada5599eb824c95_page_2_pg1.pdf",
+"text": null,
+"before": "Burr with heady eyes sparkled but his face was immobile.",
+"after": "Pale but resolute, Hamilton took his post, his face a cameo against the green background.",
+"explanation": "'before' text 'Burr with heady eyes sparkled but his fa...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/0b2e551bbc33b030f810311118e2088d7ae3_page_12_pg1.pdf",
+"text": null,
+"before": "After the above described scuff resistance testing, each golf ball cover was visually observed and rated according to the following scale: a golf ball cover was rated \"1\" when little or no damage was visible, only groove markings or dents; a golf ball cover was rated \"2\" when small cuts and/or ripples in the cover were apparent; a golf ball cover was rated \"3\" when moderate amounts of cover material were lifted from the ball's surface, but the cover material was still attached to the golf ball; and finally a golf ball cover was rated \"4\" when cover material was removed or barely attached to the golf ball.",
+"after": "Accordingly, the invention is not to be restricted except in light of the attached claims and their equivalents.",
+"explanation": "'before' text 'After the above described scuff resistan...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/01ed6dcc6a3d0237daa88b293d0c0667df1a_page_66_pg1.pdf",
+"text": null,
+"before": "FL dye-based assay has several advantages over indirect detection of biotinylated or haptenylated nucleotides, including fewer protocol steps and increased cell yields.",
+"after": "Specifically, DNA damage sensing agents induce phosphorylation of histone variant",
+"explanation": "'after' text 'Specifically, DNA damage sensing agents ...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/06ba2a90e81d76b586e6b884bf67133012a9_page_16_pg1.pdf",
+"text": null,
+"before": "Infect Dis Obstet Gynecol 2013; 2013 :752852.",
+"after": "Sarvas H, Kurikka S, Seppälä IJ, Mäkelä PH, Mäkelä O. Maternal antibodies partly inhibit an active antibody response to routine tetanus toxoid immunization in infants.",
+"explanation": "'before' text 'Infect Dis Obstet Gynecol 2013; 2013 :75...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/027c390510b2fd3364f5a382f2bc304af018_page_2_pg1.pdf",
+"text": null,
+"before": "Diabetes in other Asian countries such as Saudi Arabia(53%) [15,16], Jordan (72.4%) [17],",
+"after": "The present study aims to assess the prevalence of HTN among T2D subjects and its contribution in the occurrence of T2D in Mysore population of Karnataka in South India.",
+"explanation": "'before' text 'Diabetes in other Asian countries such a...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/07f4d706dd1736e247163f0128702c65bdd8_page_1_pg1.pdf",
+"text": null,
+"before": "Incidences, Predictors, and Clinical Outcomes of Acute and Late Stent Malapposition",
+"after": "Exclusion criteria included the following: (1) the DES was implanted for left main coronary disease, (2) there were overlapping DESs implanted in the lesion, (3) the clinical follow-up period after DES implantation was <1 year, (4) follow-up OCT was performed >1 year after DES implantation, and (5) the OCT images had poor quality.",
+"explanation": "'after' text 'Exclusion criteria included the followin...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/02943986dff2d4a84b7c2dd81abfc51fceea_page_13_pg1.pdf",
+"text": null,
+"before": "A continuación 3 artículos que fueron rechazados en la Cámara que inviabilizan el control del Estado de la industria.",
+"after": "Este administrador estaría a cargo del servicio de atención a afiliados, recaudación de cotizaciones, cartolas, pagos de pensiones y cobranzas.",
+"explanation": "'before' text 'A continuación 3 artículos que fueron re...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/02e31046996b59b4997b8413f09ae163ade5_page_5_pg1.pdf",
+"text": null,
+"before": "dependsonthe orientation of the zircon crystal with respect",
+"after": "peaks are frequently shifted substantially",
+"explanation": "'before' text 'dependsonthe orientation of the zircon c...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/06ba2a90e81d76b586e6b884bf67133012a9_page_8_pg1.pdf",
+"text": null,
+"before": "(Medina et al., 2000). Consistently, the overall antibody titers to influenza infection are lower in pregnant mice",
+"after": "(Christiansen et al., 1976;",
+"explanation": "'before' text '(Medina et al., 2000). Consistently, the...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/06ba2a90e81d76b586e6b884bf67133012a9_page_8_pg1.pdf",
+"text": null,
+"before": "(Malanchere et al., 1997;",
+"after": "Erlebacher, 2013). As B cells are the final effectors of humoral immunity, we focus on the modulations in the B cell compartment and their potential influence on vaccine-induced antibody responses.",
+"explanation": "'after' text 'Erlebacher, 2013). As B cells are the fi...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/0208fbb5d6b646f972f4702428ad2cede5c5_page_1_pg1.pdf",
+"text": null,
+"before": "Natural revegetation of these lands has proven limited even after several decades (Sieg et al 1983).",
+"after": "Therefore, most efforts toward reclaiming these spoils have centered upon applying various organic and/or inorganic amendments.",
+"explanation": "'after' text 'Therefore, most efforts toward reclaimin...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0083fb2109e58be50aec2eca07fcbfe1230b_page_1_pg1.pdf",
+"text": null,
+"before": "1995 Instructions for Form 1116",
+"after": "If you want to change your election to take a deduction instead of a credit or a credit instead of a deduction, you must do so within a special 10-year limitation period.",
+"explanation": "'before' text '1995 Instructions for Form 1116...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/0e5f0c3447c4f1335b330d58b5e14d6f15b1_page_4_pg1.pdf",
+"text": null,
+"before": "A total of 190 cardiovascular events (70 coronary, 50 cerebrovascular, and 70 peripheral vascular) that required hospitalization were documented during the course of the study.",
+"after": "These observations are of clinical importance, because most physicians consider S K values of 3.5 to 3.9 mmol/L to be \"within normal limits.\"",
+"explanation": "'after' text 'These observations are of clinical impor...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/0e5f0c3447c4f1335b330d58b5e14d6f15b1_page_4_pg1.pdf",
+"text": null,
+"before": "As a categorical variable, lower S K levels remained a significant predictor of the composite outcome before and after adjustment for serum albumin (Table 3).",
+"after": "Not surprising, diuretic use was associated with lower S K levels in this study.",
+"explanation": "'before' text 'As a categorical variable, lower S K lev...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/05aa71fa77e07bccb443ef4fd28dde3ecfd6_page_4_pg1.pdf",
+"text": null,
+"before": "ms in approximately equal proportions. A band migrating ata lower molecular weight than F0 was observed for ",
+"after": "increases the extent of cleavage at this sit",
+"explanation": "'before' text 'ms in approximately equal proportions. A...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/06ba2a90e81d76b586e6b884bf67133012a9_page_14_pg1.pdf",
+"text": null,
+"before": "Kanamaru Y, Pfirsch S, Aloulou M, Vrtovsnik F, Essig M, Loirat C, Deschenes G, Guerin-Marchand C, Blank U, Monteiro RC.",
+"after": "Karni G, Yalcin S, Coymak Y, Yurdakök K. Clinical trial to evaluate immunogenicity and safety of inactivated hepatitis A vaccination starting at 2-month-old children.",
+"explanation": "'after' text 'Karni G, Yalcin S, Coymak Y, Yurdakök K....' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/03b953c18a4f7d2bbe390940dec839395cdd_page_30_pg1.pdf",
+"text": null,
+"before": "(He didnot launch by flapping those wings; rather, he took his usual leap off Fliegeberg, began to glide, and supplemented that with the occa-",
+"after": "So favorable did the winds appear to be that he opted that day for a mono-wing glider with a new approach to steering-opening and closing slits of cloth on the wings instead of shifting his body weight.",
+"explanation": "'before' text '(He didnot launch by flapping those wing...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/081875a1035e34dee439b9a2a3a55e319405_page_4_pg1.pdf",
+"text": null,
+"before": "The bottom (ground side) is rough and light tan with sandy inclusions.",
+"after": "Another crucial number is the maximum radial extent R of the trinitite layer (thickness ΔL) from ground zero.",
+"explanation": "'after' text 'Another crucial number is the maximum ra...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/065d792cf3923fc76a17183cfd13480cd51d_page_8_pg1.pdf",
+"text": null,
+"before": "- Behandlung von Transport und Ausbreitung gasförmiger luftfremder Stoffe in der Um­gebung von Tierhaltungen A S. 1/9",
+"after": "- Saatgutverteilvorrichtung in einer Reihen­sämaschine mit gelochter Säwalze P S. 200",
+"explanation": "'before' text '- Behandlung von Transport und Ausbreitu...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/065d792cf3923fc76a17183cfd13480cd51d_page_8_pg1.pdf",
+"text": null,
+"before": "Heuwerbung, s. Ernte u.",
+"after": "- Die Niederschlagsintensität bei der Impuls­beregnung A S. 97/100",
+"explanation": "'after' text '- Die Niederschlagsintensität bei der Im...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/05aa71fa77e07bccb443ef4fd28dde3ecfd6_page_12_pg1.pdf",
+"text": null,
+"before": "Paramyxovirinae subfamily of paramyxoviruses.",
+"after": "Schickinger, R. M., S. E. Smith, and R. E. Dutch. 2006.",
+"explanation": "'after' text 'Schickinger, R. M., S. E. Smith, and R. ...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/07619750fcfe3caff8ec82642ac2449b490a_page_1_pg1.pdf",
+"text": null,
+"before": "Karanteeniaikana linnut tutkitaan IB:n varalta.",
+"after": "Rokotevirukset saattavat myös aiheutta taudin oireita, ja rokoitteiden epäasianmukainen käsittely joipa levittää rokoteviruksia tilalta toiselle.",
+"explanation": "'after' text 'Rokotevirukset saattavat myös aiheutta t...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/07619750fcfe3caff8ec82642ac2449b490a_page_1_pg1.pdf",
+"text": null,
+"before": "Rokotuksen mahdollinen käyttöönotto vaatii huolellista valmistelua.",
+"after": "Maissa, joissa IB-rokotukset ovat käytössä, ei tartunnan seuranta serologisin eli vasta-ainetutkimuksin enää ole mahdollista.",
+"explanation": "'before' text 'Rokotuksen mahdollinen käyttöönotto vaat...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/00945e98ea0970dcffb8f548336df3a0137f_page_5_pg1.pdf",
+"text": null,
+"before": "R and L are the intrinsic electrical properties of the coil and are purely passive.",
+"after": "this, the measurements tend to show anincrease in damping with the drive voltage underlying apossible non-linearity of the system",
+"explanation": "'before' text 'R and L are the intrinsic electrical pro...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/081875a1035e34dee439b9a2a3a55e319405_page_47_pg1.pdf",
+"text": null,
+"before": "\"the very intense flash of light\" that seemed \"brighter . . . than in full daylight.\" Through the glass, he saw \"a conglomeration",
+"after": "Looking directly at the explosion 3 seconds later, he saw \"a reddish glowing smoke ball rising with a thick stem of dark brown color... surrounded by a blue glow.\"",
+"explanation": "'after' text 'Looking directly at the explosion 3 seco...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0621a0090414e4681e90a4e1ea543acca910_page_4_pg1.pdf",
+"text": null,
+"before": "Ces graphes synthétiques servent alors de pierre de touche pour éclaircir l'origine et la longévité des ornementations complexes impliquées.",
+"after": "ÉTAPE N° 1 DU CRITÉRIUM EXPÉRIMENTAL LA VUE DÉVELOPPÉE DES DÉCORS",
+"explanation": "'before' text 'Ces graphes synthétiques servent alors d...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/0e5f0c3447c4f1335b330d58b5e14d6f15b1_page_1_pg1.pdf",
+"text": null,
+"before": "Predictors of S K were investigated using linear and repeated measures regression models.",
+"after": "Although nephron adaptation occurs in those with progressive renal insufficiency by way of enhanced distal tubular secretion of ingested potassium (6), mildly elevated potassium levels are not uncommon and dietary restriction of potassium is frequently considered prudent for patients with advanced chronic kidney disease (CKD) to avoid dangerous hyperkalemia (7).",
+"explanation": "'before' text 'Predictors of S K were investigated usin...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/01119fb525785eb7153ee600241ff1e01959_page_2_pg1.pdf",
+"text": null,
+"before": "In August 1993, the patient was referred to occupational medicine for the dermatitis.",
+"after": "An erythematous, scaly area extended over the posterior neck and upper back, and he had an intertriginous rash under the abdominal skin fold and an erythematous rash with circumscribed, raised edges on the sternum and upper thighs.",
+"explanation": "'after' text 'An erythematous, scaly area extended ove...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/055c2edec4677b71f7bb6a759ebacc701bb1_page_4_pg1.pdf",
+"text": null,
+"before": "Furthermore, above 70% of the activity takes place in the afternoon with a maximum between 15:00-16:00 UTC.",
+"after": "Furthermore, above 70% of the activity takes place in the afternoon with a maximum between 15:00-16:00 UTC.",
+"explanation": "Could not find a location where 'Furthermore, above 70% of the activity t...' appears before 'Furthermore, above 70% of the activity t...'."
+},
+{
+"pdf": "multi_column/0514f6672af23035c53e13fa9f5d7e17e4a4_page_18_pg1.pdf",
+"text": null,
+"before": "Iwata, H., Yatogami, M., van Randow, C., 2005.",
+"after": "storage in eddy flux measurements in a forest pertinent to vertical configurations of a profile system and",
+"explanation": "'before' text 'Iwata, H., Yatogami, M., van Randow, C.,...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/0514f6672af23035c53e13fa9f5d7e17e4a4_page_18_pg1.pdf",
+"text": null,
+"before": "Heinsch, F., Vernaux, M., Aubinet, M., 2007.",
+"after": "Meteorol. 132, 305-314.",
+"explanation": "'before' text 'Heinsch, F., Vernaux, M., Aubinet, M., 2...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/0514f6672af23035c53e13fa9f5d7e17e4a4_page_4_pg1.pdf",
+"text": null,
+"before": "Future manuscripts will address horizontal variation and advection.",
+"after": "This is followed by an exploration of the temporal variation of CO 2 storage (Section 3) and the relation between measured CO 2 storage and anthropogenic and natural factors in a highly urbanised environment (Section 4).",
+"explanation": "'after' text 'This is followed by an exploration of th...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/0621a0090414e4681e90a4e1ea543acca910_page_20_pg1.pdf",
+"text": null,
+"before": "L'APPORT DES TRAMES GÉOMÉTRIQUES SUR OBJETS ARCHÉOLOGIQUES",
+"after": "(fig. 18B, n os 1-2). Les autres décors complexes des bâtons figurent aussi sur des bracelets du",
+"explanation": "'after' text '(fig. 18B, n os 1-2). Les autres décors ...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0621a0090414e4681e90a4e1ea543acca910_page_20_pg1.pdf",
+"text": null,
+"before": "Au cours de la première moitié du III e millénaire, le récapitulatif des trames présentes sur les stèles gravées de Sion fait apparaître une dichotomie nouvelle entre les décors en damier et ceux à lignes obliques",
+"after": "Les trames distales à triangles hachurés sont non seulement communes aux trois bâtons, mais elles se retrouvent aussi aux extrémités de bracelets du Bronze final de la même aire géographique",
+"explanation": "'before' text 'Au cours de la première moitié du III e ...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0083fb2109e58be50aec2eca07fcbfe1230b_page_8_pg1.pdf",
+"text": null,
+"before": "each separate limitation overall foreign loss account.",
+"after": "Estates and trusts: Enter the amount from line 2 of the Schedule D (Form 1041)",
+"explanation": "'after' text 'Estates and trusts: Enter the amount fro...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/0083fb2109e58be50aec2eca07fcbfe1230b_page_8_pg1.pdf",
+"text": null,
+"before": "and no reduction was made to U.S.source income. In situations where U.S. source income is reduced ",
+"after": "Individuals: Enter the amount from Form 1040, line 35.",
+"explanation": "'before' text 'and no reduction was made to U.S.source ...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/01460d3dc3eca92c0d1a17eff846fa682f3d_page_6_pg1.pdf",
+"text": null,
+"before": "where each cluster-level node represents a cluster. If there exists edges betweentwo clusters as in Fig. 6.(a), we connect the two cluster",
+"after": " are at least two benefits of utilizing SDN control in cluster-level routing. Firstly, compared with SDN management for every node in WSN,",
+"explanation": "'before' text 'where each cluster-level node represents...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/031262e6346a8b7db19239800839b132c1ce_page_13_pg1.pdf",
+"text": null,
+"before": "Wara l-ħsieb hu li jirtira u għalkemm ikun jogħod id-dar tas-Soċjeta' r-Rabat pero' bi ħsiebu jgħin ħafna fill- Parroċċa ta' San Lawrenz.",
+"after": "B'dan il-ħsieb sellimtlu flwaqt li f'isimkom awgurjtlu għomor twil ta' ħidma fil-missjoni imbagħad wara għal ħidma oħra f'Malta u għala le... fil-Birgu li tant iħobb.",
+"explanation": "'before' text 'Wara l-ħsieb hu li jirtira u għalkemm ik...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/031262e6346a8b7db19239800839b132c1ce_page_13_pg1.pdf",
+"text": null,
+"before": "Meta staqsejtu dwar xi anedottu minn ħafna li kellu hu semmigli fatt meta darba mar jirri biex jilħaq karrozza tal-linja f'Arequipa u ma' laħaqhiex bi ftit.",
+"after": "Hu b'sinċerita weġibni li sakem il-moħħ u s-saqqajn jibqgħu tajbin jibqa fil-missjoni fl-Awstralja jew fejn jintbagħat mis-superjuri tiegħu.",
+"explanation": "'before' text 'Meta staqsejtu dwar xi anedottu minn ħaf...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/031262e6346a8b7db19239800839b132c1ce_page_13_pg1.pdf",
+"text": null,
+"before": "Benefiċċji soċjali ma jeżistux u għalhekk kien anki jorganizza kċejjen tal-kommunita bħal speċi ta' Victory Kitchens ta' żmien il-gwerra.",
+"after": "Din hija d-dar provinċjali u magħha hemm iċ-ċentru tal-Maltin fit il-barra mil-Belt propja u hemm kont niltaqa' miegħu.",
+"explanation": "'after' text 'Din hija d-dar provinċjali u magħha hemm...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/031262e6346a8b7db19239800839b132c1ce_page_13_pg1.pdf",
+"text": null,
+"before": "Wara imbagħad sema' li kienet ġerbet u mietu 17 il-ruħ.",
+"after": "Minbarra l-kitba Fr. Adami kellu sehem f'radjiijiet tal-kommunita u hemm jagħmel omeliji kif ukoll intervisti ta' natura spirituwali.",
+"explanation": "'before' text 'Wara imbagħad sema' li kienet ġerbet u m...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/081875a1035e34dee439b9a2a3a55e319405_page_17_pg1.pdf",
+"text": null,
+"before": "are dramatically different from those of other metalfoams currently being produced",
+"after": "LANL team members who contributed to this",
+"explanation": "'before' text 'are dramatically different from those of...' not found with max_l_dist 0"
+},
+{
+"pdf": "multi_column/06c4bdabd51644320829c59e425e2350493b_page_7_pg1.pdf",
+"text": null,
+"before": "Kehilangan massa tulang yang terjadi pada wanita pascamenopause sebesar 0.5-1% per tahun dari berat tulang.",
+"after": "15 Wanita pascamenopause juga akan mengalami penurunan tinggi badan hingga 20 cm antara usia 50-80 tahun, menimbulkan gambaran khas dowager hump (wanita tua yang bungkuk).",
+"explanation": "'after' text '15 Wanita pascamenopause juga akan menga...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/06c4bdabd51644320829c59e425e2350493b_page_7_pg1.pdf",
+"text": null,
+"before": "22 Hasil penelitian ini menunjukkan bahwa subjek yang berusia >60 tahun lebih banyak ditemukan pada kelompok kasus daripada kelompok kontrol.",
+"after": "26 Olahraga (tegangan) dapat meningkatkan jumlah sel osteoblas dan menurunkan jumlah sel osteoklas melalui mekanisme mekanotransduksi.",
+"explanation": "'before' text '22 Hasil penelitian ini menunjukkan bahw...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/05a0e5bc2881eb1d246b2e41906bf8b24de2_page_3_pg1.pdf",
+"text": null,
+"before": "Because of the ready availability of L-(+)-tartaric acid, which has the confirmed 2R,3R absolute configuration, it has been very useful for both resolution and the crystallographic determination of absolute configuration in chiral molecular species, e.g. with the anticholinergic agent R-(-)-1,1-diphenyl-3-piperidinobutan-1-ol (Schjelderup et al., 1990).",
+"after": "Non-H atoms are shown as 50% probability displacement ellipsoids.",
+"explanation": "'before' text 'Because of the ready availability of L-(...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0e5f0c3447c4f1335b330d58b5e14d6f15b1_page_7_pg1.pdf",
+"text": null,
+"before": "Data on the dietary intake of potassium and protein was not collected in the Renal Research Institute CKD Study; however, we examined models with and without adjustment for serum albumin, a major marker of nutritional status.",
+"after": "This study shows that the levels of S K that are associated with lowest risk for mortality are between 4.1 and 5.5 mmol/L, which suggests that maintaining S K in this range may potentially help optimize survival in patients with CKD.",
+"explanation": "'after' text 'This study shows that the levels of S K ...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/068682d533c39f817bd7855be4760d9a56ef_page_1_pg1.pdf",
+"text": null,
+"before": "In solving an m × m multivariable design problem, the synthesis problem is converted into m equivalent single-loop MISO problems, with parameter uncertainties, external disturbances and performance tolerances are derived from the original problem, and the coupling effects between MISO subsystems are treated as disturbance inputs.",
+"after": "In all the quantitative designs, a time-consuming trial-and-error procedure is adapted and a successful compromise between various design requirements is very much dependent on the designer experience.",
+"explanation": "'before' text 'In solving an m × m multivariable design...' not found with max_l_dist 1"
+}
+],
+"multi_column|order|reversed": [
+{
+"pdf": "multi_column/0145bc47f7ca5f8c5ff1a10481207670bcd3_page_11_pg1.pdf",
+"text": null,
+"before": "KIN 897; and permission of the graduate major adviser and instructor; and approval of Advancement to Candidacy (ATC) and Culminating Experience (CE) forms by Graduate Studies.",
+"after": "KIN 898 Master's Thesis (Units: 3)",
+"explanation": "Could not find a location where 'KIN 897; and permission of the graduate ...' appears before 'KIN 898 Master's Thesis (Units: 3)...'."
+},
+{
+"pdf": "multi_column/0b045ab838c05c4ff1ac844caf826f8f368d_page_32_pg1.pdf",
+"text": null,
+"before": "The Sea Cadet in South Africa movement traces its origins back to the first South African Training Ship (TS), located on Woodstock beach Cape Town, TS Woltemade was opened on 8 June 1905.",
+"after": "Where and when does the training take place?",
+"explanation": "Could not find a location where 'The Sea Cadet in South Africa movement t...' appears before 'Where and when does the training take pl...'."
+},
+{
+"pdf": "multi_column/0904c7071324813f138e96ed004bbc613748_page_4_pg1.pdf",
+"text": null,
+"before": "For the curves with l/R = 0.05, 0.1 we have used l*/R = 0.05, 0.1.",
+"after": "This behaviour is easily understood from Fig. 2, where we have plotted the Doppler shifted frequencies and the Alfvén frequency as a function of the radial coordinate.",
+"explanation": "'before' text 'For the curves with l/R = 0.05, 0.1 we h...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/0925342e1efabb7957efa34203f65d3cbc4d_page_4_pg1.pdf",
+"text": null,
+"before": "However, state policies vary considerably.",
+"after": "Developments in State Green Cleaning Policies for Schools",
+"explanation": "Could not find a location where 'However, state policies vary considerabl...' appears before 'Developments in State Green Cleaning Pol...'."
+},
+{
+"pdf": "multi_column/09f801e3a2ec90ef456d34ad571a46f36fce_page_3_pg1.pdf",
+"text": null,
+"before": "Communication du Conseil départemental du Jura",
+"after": "Cependant, nous sommes rassurés par l'annonce de certaines bonnes nouvelles : le Jura, terre de champions, recevra en 2016 le Tour de France pour une étape franco-suisse et le salon Made In Jura, cher au cœur des Jurassiens, renaîtra sous une forme nouvelle.",
+"explanation": "'before' text 'Communication du Conseil départemental d...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/09f801e3a2ec90ef456d34ad571a46f36fce_page_3_pg1.pdf",
+"text": null,
+"before": "L'année qui se prépare ne sera donc pas lestée par le passé.",
+"after": "Nous avons pu [...]solder un stock impressionnant d'impayés que nos prédécesseurs nous avaient laissé...",
+"explanation": "'after' text 'Nous avons pu [...]solder un stock impre...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/027880a87e3c2ad4cf8c05f477597c0c6da7_page_7_pg1.pdf",
+"text": null,
+"before": "time, the slope representing the specific growth rate during the exponential phase",
+"after": "dissolved hydrogen partial pressure during linear growth;",
+"explanation": "Could not find a location where 'time, the slope representing the specifi...' appears before 'dissolved hydrogen partial pressure duri...'."
+}
+],
+"multi_column|order|one_missing": [
+{
+"pdf": "multi_column/0845863d27c84b14011e17a388821525e783_page_16_pg1.pdf",
+"text": null,
+"before": "Evolução tectônica da Área de Ubarana e implicações na gênese da submersda da Bacia Potiguar.",
+"after": "Tectono-stratigraphic evolution of offshore Potiguar Basin, Brazil.",
+"explanation": "'before' text 'Evolução tectônica da Área de Ubarana e ...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0a7e813e2010ecd8239725c32c859fe00c92_page_2_pg1.pdf",
+"text": null,
+"before": "Ti ljudi nisu mogli se stalno prestavlja odsta-ni na trajnhu, iako omeđeni u svojim tijelima.",
+"after": "U podjeli se nalaze Tonko Lonza (naslovni lik), Fabijan Šovagović, Božidar Boban i drugi Marko Antolija de Dominisa, u Ljubici Jović igrala je Neda Spasić Paro.",
+"explanation": "'before' text 'Ti ljudi nisu mogli se stalno prestavlja...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0621a0090414e4681e90a4e1ea543acca910_page_8_pg1.pdf",
+"text": null,
+"before": "L'ornementation des bracelets de l'âge du Bronze européen : analyse descriptive et perspectives.",
+"after": "(Testart, 2011). Sans pouvoir pénétrer l'âme des acteurs sociaux protohistoriques, il s'agit d'abord de s'enquérir de phénomènes physiologiques décrits dans des processus expérimentaux portant sur la perception visuelle (Frutiger, 2000, p. 35-36).",
+"explanation": "'before' text 'L'ornementation des bracelets de l'âge d...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/0a2b678b6c6825364a5a18154dd59064922e_page_1_pg1.pdf",
+"text": null,
+"before": "The Korean Journal of Pathology 2010;",
+"after": "This poor prognosis issue persists, despite recent improvements in surgical methods and therapeutic agents.",
+"explanation": "'before' text 'The Korean Journal of Pathology 2010;...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/00d8a44d3066bbc4bd8df149d0dafb96f423_page_1_pg1.pdf",
+"text": null,
+"before": "서정희 · 김길영 · 박홍복 *",
+"after": "1. 서 론",
+"explanation": "'before' text '서정희 · 김길영 · 박홍복 *...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/00d8a44d3066bbc4bd8df149d0dafb96f423_page_1_pg1.pdf",
+"text": null,
+"before": "Jung-hee Seo · Kil-young Kim · Hung-bog Park *",
+"after": "Therefore, remote data monitoring systems that integrate wireless and wired services provide data collection adaptive to administrators and efficient identification of device status.",
+"explanation": "'before' text 'Jung-hee Seo · Kil-young Kim · Hung-bog ...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0d7f2cbc54e1b8e58b42a867c3f7620bcd29_page_6_pg1.pdf",
+"text": null,
+"before": ".... TECHNICAL INVESTIGATION",
+"after": "Carpet Manufactured by Belgotex Carpet.",
+"explanation": "'before' text '.... TECHNICAL INVESTIGATION...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/019a8841dddeb304774ba62a9f5d8dccb43d_page_1_pg1.pdf",
+"text": null,
+"before": "Nous rapportons un cas original de neutropénie chronique associée à une maladie de Charcot-Marie-Tooth chez un patient porteur d'une mutation du gène codant pour la dynamine 2.",
+"after": "- Document téléchargé le 19/05/2019 Il est interdit et illégal de diffuser ce document.",
+"explanation": "'after' text '- Document téléchargé le 19/05/2019 Il e...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0dd31f954c25db440baccc3245daf51b4b55_page_1_pg1.pdf",
+"text": null,
+"before": "Panteion University of Social & Political Sciences Department of Social Anthropology",
+"after": "Organised & Conceptualised",
+"explanation": "'before' text 'Panteion University of Social & Politica...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/05eac72b90295dbb76786d1fe5e2fe0db27d_page_6_pg1.pdf",
+"text": null,
+"before": "Fig. 4 shows transformed realignment parameters across the three translational and rotational axes, assuming rigid body motion, averaged across the three subjects.",
+"after": "Please cite this article in press as: Murnane KS, Howell LL.",
+"explanation": "'after' text 'Please cite this article in press as: Mu...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/0dd31f954c25db440baccc3245daf51b4b55_page_2_pg1.pdf",
+"text": null,
+"before": "Panteion University of Social & Political Sciences Department of Social Anthropology",
+"after": "14.30 - 15.10 Taj Khan Kalash",
+"explanation": "'before' text 'Panteion University of Social & Politica...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/0145cc39b04386db908f8d5f080137c91a6e_page_2_pg1.pdf",
+"text": null,
+"before": "We study the photonic band structure of cubic crystals of point dipoles.",
+"after": "The dipole-light interaction couples the dipole excitations with a crystal wave vector k to photons with wave vectors k + G, where G is an arbitrary vector of the reciprocal lattice.",
+"explanation": "'after' text 'The dipole-light interaction couples the...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/09f90a8fad0997f7cf454cbcbe79cab3bc0f_page_2_pg1.pdf",
+"text": null,
+"before": "Knowledge-based Question/Answering Architecture",
+"after": "Throughout all this processing, the NLP techniques are limited to (a) named entity recognition; (b) semantic classification of the question type, based on information provided by an off-line question taxonomy and semantic class information available from WordNet (Fellbaum 1998); and (c) phrasal parsing produced by enhancing Brill's part-of-speech tagger with some rules for phrase formation.",
+"explanation": "'before' text 'Knowledge-based Question/Answering Archi...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0925342e1efabb7957efa34203f65d3cbc4d_page_9_pg1.pdf",
+"text": null,
+"before": "The director of Facilities and Operations meets regularly with PTA representatives at district safety committee meetings.",
+"after": "The Facilities Department does its share in supporting education by supplying a variety of posters designed to remind students of the importance of proper hand washing to maintain personal health and prevent the spread of diseases.",
+"explanation": "'before' text 'The director of Facilities and Operation...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0925342e1efabb7957efa34203f65d3cbc4d_page_9_pg1.pdf",
+"text": null,
+"before": "Guidelines issued by states such as Illinois, Missouri, and New York in support of their respective green cleaning for schools laws serve as a wonderful \"roadmap\" for schools in transitioning to a green cleaning platform.",
+"after": "students in the management of the recycling program has encouraged increased participation by all, ensuring success of the district's recycling efforts.",
+"explanation": "'after' text 'students in the management of the recycl...' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/0925342e1efabb7957efa34203f65d3cbc4d_page_9_pg1.pdf",
+"text": null,
+"before": "You donot get depth without having a problem to solve.",
+"after": "These state guidelines serve as a valuable resource by providing school districts with structured programs that have been proven in the field.",
+"explanation": "'before' text 'You donot get depth without having a pro...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/0925342e1efabb7957efa34203f65d3cbc4d_page_9_pg1.pdf",
+"text": null,
+"before": "time is spent on a skill and not content.",
+"after": "As such, Balek is actively engaged in the process of developing and promoting public policy, programs, and initiatives that help companies succeed in the green cleaning marketplace.",
+"explanation": "'before' text 'time is spent on a skill and not content...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/019a8841dddeb304774ba62a9f5d8dccb43d_page_2_pg1.pdf",
+"text": null,
+"before": "La prise en charge préventive des ascendants n'est pas codifiée.",
+"after": "Tous droits réservés.",
+"explanation": "'after' text 'Tous droits réservés....' not found with max_l_dist 1"
+},
+{
+"pdf": "multi_column/065d792cf3923fc76a17183cfd13480cd51d_page_8_pg1.pdf",
+"text": null,
+"before": "Landtechnik Bd. 38 (1988) - Index",
+"after": "- Prof. Dr. agr.",
+"explanation": "'before' text 'Landtechnik Bd. 38 (1988) - Index...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/0621a0090414e4681e90a4e1ea543acca910_page_4_pg1.pdf",
+"text": null,
+"before": "L'ornementation des bracelets de l'âge du Bronze européen : analyse descriptive et perspectives.",
+"after": "Cette suite d'énoncés normatifs (Habermas, 1976, p. 551) se produit au cours du critérium expérimental, selon la formule de Claude Bernard, promoteur de ce processus d'analyse dans le domaine de la biologie médicale (1865).",
+"explanation": "'before' text 'L'ornementation des bracelets de l'âge d...' not found with max_l_dist 2"
+},
+{
+"pdf": "multi_column/04e88521bffcae275b79ed2c89e24c1f8855_page_1_pg1.pdf",
+"text": null,
+"before": "Ravi Ramalingam 1, K. K. Ramalingam 2, A. V. Ramesh 3, S. Mahesh Prabhu 4,",
+"after": "We report a case of Thyroglossal Cyst who",
+"explanation": "'before' text 'Ravi Ramalingam 1, K. K. Ramalingam 2, A...' not found with max_l_dist 2"
+}
+],
+"old_scans|order|in_order_but_garbled": [
+{
+"pdf": "old_scans/14.pdf",
+"text": null,
+"before": "West New Brighton S.",
+"after": "It has added some year to my life",
+"explanation": "'after' text 'It has added some year to my life...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/10.pdf",
+"text": null,
+"before": "We want no fusion or amalgamation with the Republican Party, the",
+"after": "Chairman of Washington Party in Indiana County, Pa.",
+"explanation": "'before' text 'We want no fusion or amalgamation with t...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/2.pdf",
+"text": null,
+"before": "OYSTER BAY, N.Y.",
+"after": "A GROUP OF US TELEGRAPH OPERATORS WERE KINDLY",
+"explanation": "'before' text 'OYSTER BAY, N.Y....' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/1.pdf",
+"text": null,
+"before": "During your trip to S.A.",
+"after": "to Eastern or Bangor Pa I would Like to See you",
+"explanation": "'before' text 'During your trip to S.A....' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/10.pdf",
+"text": null,
+"before": "I am, Sincerely,",
+"after": "J. DAY BROWNLEE, JR.",
+"explanation": "'after' text 'J. DAY BROWNLEE, JR....' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/12.pdf",
+"text": null,
+"before": "connected with the sale of it and have nothing to",
+"after": "locomotive engineer, who contracted the Lhagres fever while",
+"explanation": "'before' text 'connected with the sale of it and have n...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/1.pdf",
+"text": null,
+"before": "Sickles old Regt & Brigade I served through all of the civil war.",
+"after": "Then He Left us.",
+"explanation": "'before' text 'Sickles old Regt & Brigade I served thro...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/4.pdf",
+"text": null,
+"before": "The activities by the Knights of Columbus, and the improved public",
+"after": "government have centered men's attention on the Catholic church and its effort for Catholic schools.",
+"explanation": "'before' text 'The activities by the Knights of Columbu...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/20.pdf",
+"text": null,
+"before": "you these Buttons at factory price plus 1 cent Royalty each.",
+"after": "If you so desire I will have a Bull Moose put on the place that slides up and down that causes the Eye to Wink.",
+"explanation": "'before' text 'you these Buttons at factory price plus ...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/20.pdf",
+"text": null,
+"before": "An order from you for 10,000 Buttons.",
+"after": "give me an order for 10.000 Buttons we can put",
+"explanation": "'before' text 'An order from you for 10,000 Buttons....' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/21.pdf",
+"text": null,
+"before": "I am sending under separate cover.",
+"after": "the reason I am writing you regarding my",
+"explanation": "'before' text 'I am sending under separate cover....' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/22.pdf",
+"text": null,
+"before": "Theo Roosevelt",
+"after": "Will expect you for Lunch at Belmont Wednesday any hour you prefer",
+"explanation": "'after' text 'Will expect you for Lunch at Belmont Wed...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/23.pdf",
+"text": null,
+"before": "My dear Sir:-",
+"after": "at the Progressive Head- quarters in New York, to ask your good offices in behalf of the Contemporary Club of Bridgeport, of which I have the honor to be President.",
+"explanation": "'after' text 'at the Progressive Head- quarters in New...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/26.pdf",
+"text": null,
+"before": "Col Theodore Roosevelt",
+"after": "Dear Sir So Many of your admirers on this side of Long Island who have for a long time been deprived of the pleasure of hearing you speak, have expressed a strong desire to do I take",
+"explanation": "'after' text 'Dear Sir So Many of your admirers on thi...' not found with max_l_dist 1"
+},
+{
+"pdf": "old_scans/27.pdf",
+"text": null,
+"before": "Respectfully yours",
+"after": "FRANK J. Dion",
+"explanation": "'after' text 'FRANK J. Dion...' not found with max_l_dist 1"
+},
+{
+"pdf": "old_scans/29.pdf",
+"text": null,
+"before": "My Dear Mr. Roosevelt",
+"after": "at this time, after having",
+"explanation": "'after' text 'at this time, after having...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/30.pdf",
+"text": null,
+"before": "it into Laurance's hands, for consultation between you and",
+"after": "in my sincere affection and esteem for you",
+"explanation": "'before' text 'it into Laurance's hands, for consultati...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/30.pdf",
+"text": null,
+"before": "Indeed strengthened by the profound change in your formal relation in the Outlook.",
+"after": "Laurance's hands, for consultation between you and him, if, as you have intimated,",
+"explanation": "'before' text 'Indeed strengthened by the profound chan...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/31.pdf",
+"text": null,
+"before": "think of having the time, the place and the men.",
+"after": "Well, Godspeed you on your way.",
+"explanation": "'after' text 'Well, Godspeed you on your way....' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/32.pdf",
+"text": null,
+"before": "Dear Sir, Allow me in view of the pleasant",
+"after": " I have in your high regard for justice right and humanity, to invoke your aid in a matter which I will briefly present.",
+"explanation": "'before' text 'Dear Sir, Allow me in view of the pleasa...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/32.pdf",
+"text": null,
+"before": "confidance I have in your high regard for justice right and humanity,",
+"after": "has been one of our most quiet citizens, keeping himself studiously on his farm",
+"explanation": "'before' text 'confidance I have in your high regard fo...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/33.pdf",
+"text": null,
+"before": "I know that Military Law is harsh and unfeeling.",
+"after": "I feel that the Joseph Holt whom with others loved and",
+"explanation": "'after' text 'I feel that the Joseph Holt whom with ot...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/33.pdf",
+"text": null,
+"before": "him or any other if guilty to interfere with",
+"after": "I feel that the Joseph Holt whom with others loved and",
+"explanation": "'after' text 'I feel that the Joseph Holt whom with ot...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/33.pdf",
+"text": null,
+"before": "the name of the Constitution and country that",
+"after": "evil to that very caused proposed to benefitted by this",
+"explanation": "'after' text 'evil to that very caused proposed to ben...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/34.pdf",
+"text": null,
+"before": "Your Ky heart would burn within you could you but know half of the truth",
+"after": "And what makes it almost unsupportable is to receive",
+"explanation": "'before' text 'Your Ky heart would burn within you coul...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/35.pdf",
+"text": null,
+"before": "If it were known that I had written this letter it would at once be determined that it was \"interference with military rule\", and I should have to suffer the penalty.",
+"after": "If my letter is not in place forgive me and let the wife and young daughter of my friend with allmost broken hearts plead for justice to a husband a father- a grey haired minister of Jesus.",
+"explanation": "'before' text 'If it were known that I had written this...' not found with max_l_dist 1"
+},
+{
+"pdf": "old_scans/35.pdf",
+"text": null,
+"before": "I say \"justice\" for it is justice to",
+"after": "the writing be involved in this matter further than",
+"explanation": "'after' text 'the writing be involved in this matter f...' not found with max_l_dist 1"
+},
+{
+"pdf": "old_scans/37.pdf",
+"text": null,
+"before": "we have had such beautiful weather this fall.",
+"after": "The family are well with the exception of our dear Mother whose 4200",
+"explanation": "'after' text 'The family are well with the exception o...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/41.pdf",
+"text": null,
+"before": "(9th)-at 3 1/2 oclock.",
+"after": "202 Olive",
+"explanation": "'before' text '(9th)-at 3 1/2 oclock....' not found with max_l_dist 1"
+},
+{
+"pdf": "old_scans/42.pdf",
+"text": null,
+"before": "is as I think unjustly held held as a prisoner at Fort Warren",
+"after": "make an effort at the State Department for his release - I shall to day forward to Mr.",
+"explanation": "'before' text 'is as I think unjustly held held as a pr...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/42.pdf",
+"text": null,
+"before": "My dear Sir, My friend Andrew Low of Savannah, Geo.",
+"after": "is as I think unjustly held held as a prisoner at Fort Warren",
+"explanation": "'before' text 'My dear Sir, My friend Andrew Low of Sav...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/42.pdf",
+"text": null,
+"before": "Washington D.C.",
+"after": "an effort at the State Department for his release",
+"explanation": "'before' text 'Washington D.C....' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/43.pdf",
+"text": null,
+"before": "may be implicitly relied upon.",
+"after": "And we must make large allowance for parties who were living in the Confederate States during May last & who have been abroad since & have not compromised themselves in acts against the United States.",
+"explanation": "'after' text 'And we must make large allowance for par...' not found with max_l_dist 1"
+},
+{
+"pdf": "old_scans/46.pdf",
+"text": null,
+"before": "war times, it will be exceeding hard",
+"after": "I opened my office as you will perceive from enclosed cases.",
+"explanation": "'before' text 'war times, it will be exceeding hard...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/47.pdf",
+"text": null,
+"before": "If received it has probably been advertised.",
+"after": "Please forward it to me here & oblige very respectfully your",
+"explanation": "'before' text 'If received it has probably been adverti...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/47.pdf",
+"text": null,
+"before": "If received it has probably been advertised.",
+"after": "William L Kelly",
+"explanation": "'before' text 'If received it has probably been adverti...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/47.pdf",
+"text": null,
+"before": "If received it has probably been advertised.",
+"after": "to me here & oblige very respectfully your obt servt",
+"explanation": "'before' text 'If received it has probably been adverti...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/50.pdf",
+"text": null,
+"before": "There is not a single word written in the older New Testament nor even an allusion relating",
+"after": "of the first day for the seventh - The subject is not mentioned in any of the",
+"explanation": "'before' text 'There is not a single word written in th...' not found with max_l_dist 1"
+},
+{
+"pdf": "old_scans/50.pdf",
+"text": null,
+"before": "the Lord\" But the Christians keep the first day not the seventh - 3.",
+"after": "not a single word written in the older New Testament nor even an allusion",
+"explanation": "'after' text 'not a single word written in the older N...' not found with max_l_dist 1"
+},
+{
+"pdf": "old_scans/51.pdf",
+"text": null,
+"before": "Justin makes the christian admit & justify it & he sneers at the Jewish sabbath as a day of mere idleness",
+"after": "states that as \"sabbath & sacrifice & oblation began from Moses, so according to the counsel of your fathers they were to end in Christ.",
+"explanation": "'before' text 'Justin makes the christian admit & justi...' not found with max_l_dist 1"
+},
+{
+"pdf": "old_scans/51.pdf",
+"text": null,
+"before": "It is a dialogue between a learned Jew & a christian.",
+"after": "because his sect observe no sabbath but are in this respect like",
+"explanation": "'before' text 'It is a dialogue between a learned Jew &...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/60.pdf",
+"text": null,
+"before": "They had never seen a blackboard in school.",
+"after": "wiped our sweaty faces, \"wished it wasn't quite as",
+"explanation": "'after' text 'wiped our sweaty faces, \"wished it wasn'...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/64.pdf",
+"text": null,
+"before": "Some were too denominational in religion to be bored enough to desire them; others too proud to send their children to the public school, which had often",
+"after": "Whenever the public school system had been tried among a people divided by sectarian quarrels, the citizens themselves split over the question, while the children, catching their lack of respect for a school system, broke up the sessions and ran wild on the streets.",
+"explanation": "'before' text 'Some were too denominational in religion...' not found with max_l_dist 2"
+},
+{
+"pdf": "old_scans/70.pdf",
+"text": null,
+"before": "all false teachers, false prophets, that cry \"peace, peace, when there is no peace.\"",
+"after": "Occasionally circumstances require that shipwrecked persons should be out-fitted with clothing.",
+"explanation": "'after' text 'Occasionally circumstances require that ...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/74.pdf",
+"text": null,
+"before": "Women who desire to form State auxiliary societies should apply for information to Mrs.",
+"after": "All are invited and are requested to bring or",
+"explanation": "'after' text 'All are invited and are requested to bri...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/75.pdf",
+"text": null,
+"before": "The Mount Vernon branch of the Women National War Relief Association will hold its meetings every Tuesday at 4 o'clock p.m, at Willard Hall.",
+"after": "Everyone is cordially invited to these meeting, where the work",
+"explanation": "'before' text 'The Mount Vernon branch of the Women Nat...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/75.pdf",
+"text": null,
+"before": "in Willard Hall every Tuesday at 4 o'clock P.M.",
+"after": "All are most cordially invited to attend.",
+"explanation": "'before' text 'in Willard Hall every Tuesday at 4 o'clo...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/76.pdf",
+"text": null,
+"before": "I enclose these clippings from Mt V- papers to have you see what obstacles I have fought against and overcome.",
+"after": "Nothing dies, but error and untruth - ; Red Cross will live forever!",
+"explanation": "'before' text 'I enclose these clippings from Mt V- pap...' not found with max_l_dist 1"
+},
+{
+"pdf": "old_scans/77.pdf",
+"text": null,
+"before": "the occasion of the delay (viz.",
+"after": "stout box, securely nailed, and delivered given to the Sutler of of the 15th Regt.",
+"explanation": "'before' text 'the occasion of the delay (viz....' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/77.pdf",
+"text": null,
+"before": "moment when I was more than busy, and as I had just written Mrs Dielinser",
+"after": "You must before this have learned from my letter to Mrs D.",
+"explanation": "'before' text 'moment when I was more than busy, and as...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/79.pdf",
+"text": null,
+"before": "and none are admitted - I wished an hour ago that you had been with me - In compliance with a request of my sister",
+"after": "found there a young Englishman a brother of one of their domestics who also had enlisted",
+"explanation": "'after' text 'found there a young Englishman a brother...' not found with max_l_dist 1"
+},
+{
+"pdf": "old_scans/79.pdf",
+"text": null,
+"before": "enervation from luxuries - Still it is said that \"our army is supplied\".",
+"after": "of their domestics who also had enlisted",
+"explanation": "'before' text 'enervation from luxuries - Still it is s...' not found with max_l_dist 1"
+},
+{
+"pdf": "old_scans/80.pdf",
+"text": null,
+"before": "see people hungry when recovering from a fever but",
+"after": "the Regt comes to see him, but had no idea of his condition,",
+"explanation": "'before' text 'see people hungry when recovering from a...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/80.pdf",
+"text": null,
+"before": "fever but I find that hunger and starvation, are two distinct conditions.",
+"after": "comes to see him, but had no idea of his condition, said",
+"explanation": "'before' text 'fever but I find that hunger and starvat...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/81.pdf",
+"text": null,
+"before": " feet with not nurses people enough about them to take care of them we should think they needed more nurses, if with plenty of persons about who failed",
+"after": "carriages to witness \"Splendid reserves\" and\" inspect the condition of army of the Potomac\" and come away \"delighted\" learn very little of what lies there under canvas.",
+"explanation": "'before' text ' feet with not nurses people enough abou...' not found with max_l_dist 1"
+},
+{
+"pdf": "old_scans/82.pdf",
+"text": null,
+"before": "we shall never have any other precise method of discerning the real wants of our soldiers, when the store house of any state should be found empty - it would be safe to conclude that her",
+"after": "systematize the whole the about matter, and do away with all necessary confusion doubt and uncertanty, - it would preclude all possibility of loss.",
+"explanation": "'before' text 'we shall never have any other precise me...' not found with max_l_dist 1"
+},
+{
+"pdf": "old_scans/83.pdf",
+"text": null,
+"before": "When I write another thought idea occurs to me - has it been thought of to procure each of our Regmnts that are to",
+"after": "until some battle or other action or strong necessity renders supplies necessary - then necessities are sure to follow.",
+"explanation": "'before' text 'When I write another thought idea occurs...' not found with max_l_dist 1"
+},
+{
+"pdf": "old_scans/83.pdf",
+"text": null,
+"before": "strengthened by eight months daily observation.",
+"after": "their absence will create with regard to our 23 25 & 27 regts I",
+"explanation": "'after' text 'their absence will create with regard to...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/85.pdf",
+"text": null,
+"before": "I ask neither pay or praise, simply a soldier's fare and the sanction of Your Excellency to go and do with my might, whatever my hands find to do.",
+"after": " am glad to know that somewhere they have learned thier duty to thier country, and have come up neither cowards, or traitors.",
+"explanation": "'before' text 'I ask neither pay or praise, simply a so...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/85.pdf",
+"text": null,
+"before": "journeying home, - With this my highest duties close,",
+"after": "of Your Excellency to go and do with my might, whatever my hands find",
+"explanation": "'before' text 'journeying home, - With this my highest ...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/89.pdf",
+"text": null,
+"before": "Letter is request to send Miss Barton to nurse sick & wounded soldiers in Burnside Div",
+"after": "Whenever yu may be ready to visit Genl Burnsides division I will cheerfully give you a letter of introduction, with my hearty",
+"explanation": "'before' text 'Letter is request to send Miss Barton to...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/89.pdf",
+"text": null,
+"before": "Miss Barton to nurse sick & wounded soldiers in Burnside",
+"after": "Boston, March 24th, 1862",
+"explanation": "'after' text 'Boston, March 24th, 1862...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/91.pdf",
+"text": null,
+"before": "in Washington had among other servants - one",
+"after": "and Louisa were left in Louisville with Capt.",
+"explanation": "'after' text 'and Louisa were left in Louisville with ...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/92.pdf",
+"text": null,
+"before": "As a preface to a request that I desire to make at your hnds, allow me without charge",
+"after": "- Whn our first regt of troop enterss ths city came to the defen of Washington I commenced to look after ther wants - and",
+"explanation": "'before' text 'As a preface to a request that I desire ...' not found with max_l_dist 1"
+},
+{
+"pdf": "old_scans/92.pdf",
+"text": null,
+"before": "I was the first who reached them",
+"after": "Bull Rn I reach Fairfax Station with",
+"explanation": "'before' text 'I was the first who reached them...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/93.pdf",
+"text": null,
+"before": "Sturgis by his own special request take charge of my teams.",
+"after": "have changes my own position and I then mention",
+"explanation": "'before' text 'Sturgis by his own special request take ...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/96.pdf",
+"text": null,
+"before": "Sturgis (2nd) Division",
+"after": "opportunity to send a line by him to you, not feeling quite",
+"explanation": "'before' text 'Sturgis (2nd) Division...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/97.pdf",
+"text": null,
+"before": "rods from me, many of the officers call to",
+"after": "I learned to night that the 15th are only some three miles away.",
+"explanation": "'before' text 'rods from me, many of the officers call ...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/97.pdf",
+"text": null,
+"before": "Head Quarters My Ambulance came through that P.M, but for fear",
+"after": "reference to the Justice programme the snow appears",
+"explanation": "'before' text 'Head Quarters My Ambulance came through ...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/98.pdf",
+"text": null,
+"before": "at liberty to ask of such friends as I had in",
+"after": "course of your life and observation sojourn in that treacherous",
+"explanation": "'after' text 'course of your life and observation sojo...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/98.pdf",
+"text": null,
+"before": "could be of any service all of which are erroneous - I",
+"after": "defenders of our Nation's honor could induce me to intrude",
+"explanation": "'before' text 'could be of any service all of which are...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/9.pdf",
+"text": null,
+"before": "I am still with you, as I have always been, because I have felt that while you have seemed to think that I was guilty of criminal misconduct, someday I am going to convince you that you have been deceived, and I have never had any hard feeling towards you because I have felt that you had to believe what certain parties in Oregon felt in their duty, at all times to impress upon you.",
+"after": "You will carry Oregon with a big majority.",
+"explanation": "'before' text 'I am still with you, as I have always be...' not found with max_l_dist 1"
+},
+{
+"pdf": "old_scans/19.pdf",
+"text": null,
+"before": "Please pardon the liberty & take in penning you these few lines,",
+"after": "Which is self explanatory now what I want to do is this",
+"explanation": "'before' text 'Please pardon the liberty & take in penn...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/19.pdf",
+"text": null,
+"before": "Letters patent, that was issued to me Dec 30th 1913.",
+"after": "Which is self explanatory now what I want to",
+"explanation": "'before' text 'Letters patent, that was issued to me De...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/99.pdf",
+"text": null,
+"before": "He could no longer support the colors upright.",
+"after": "A moments reflection will aleviate the necessity of any suggestions in reference",
+"explanation": "'before' text 'He could no longer support the colors up...' not found with max_l_dist 0"
+}
+],
+"old_scans|present|near(>=90)": [
+{
+"pdf": "old_scans/14.pdf",
+"text": "hoping for your good health I am yours,",
+"before": null,
+"after": null,
+"explanation": "Expected 'hoping for your good health I am yours,...' with threshold 1.0 but best match ratio was 0.974"
+},
+{
+"pdf": "old_scans/14.pdf",
+"text": "wash out some truths for the people as this land of U.S. needs such minds",
+"before": null,
+"after": null,
+"explanation": "Expected 'wash out some truths for the people as t...' with threshold 1.0 but best match ratio was 0.959"
+},
+{
+"pdf": "old_scans/5.pdf",
+"text": "be expected to attend Catholic ceremonials and lend himself to even the",
+"before": null,
+"after": null,
+"explanation": "Expected 'be expected to attend Catholic ceremonia...' with threshold 0.9859154929577465 but best match ratio was 0.972"
+},
+{
+"pdf": "old_scans/13.pdf",
+"text": "1205 Washington W",
+"before": null,
+"after": null,
+"explanation": "Expected '1205 Washington W...' with threshold 1.0 but best match ratio was 0.941"
+},
+{
+"pdf": "old_scans/10.pdf",
+"text": "We want no fusion or amalgamation with the Republican Party, the party of Penrose and his ilk.",
+"before": null,
+"after": null,
+"explanation": "Expected 'We want no fusion or amalgamation with t...' with threshold 1.0 but best match ratio was 0.989"
+},
+{
+"pdf": "old_scans/13.pdf",
+"text": "Very respectfully,",
+"before": null,
+"after": null,
+"explanation": "Expected 'Very respectfully,...' with threshold 1.0 but best match ratio was 0.944"
+},
+{
+"pdf": "old_scans/7.pdf",
+"text": "Dear Sir: -",
+"before": null,
+"after": null,
+"explanation": "Expected 'Dear Sir: -...' with threshold 1.0 but best match ratio was 0.909"
+},
+{
+"pdf": "old_scans/6.pdf",
+"text": "for more than 45 years, or from Greeley to Wilson, but",
+"before": null,
+"after": null,
+"explanation": "Expected 'for more than 45 years, or from Greeley ...' with threshold 1.0 but best match ratio was 0.981"
+},
+{
+"pdf": "old_scans/1.pdf",
+"text": "as we are deprived of Voting for whoever we Desire at the Primaries.",
+"before": null,
+"after": null,
+"explanation": "Expected 'as we are deprived of Voting for whoever...' with threshold 1.0 but best match ratio was 0.971"
+},
+{
+"pdf": "old_scans/20.pdf",
+"text": "that I will furnish you these Buttons at factory price plus 1 cent Royalty each.",
+"before": null,
+"after": null,
+"explanation": "Expected 'that I will furnish you these Buttons at...' with threshold 1.0 but best match ratio was 0.988"
+},
+{
+"pdf": "old_scans/21.pdf",
+"text": "I am also enclosing My Baby's picture the one that I am working for.",
+"before": null,
+"after": null,
+"explanation": "Expected 'I am also enclosing My Baby's picture th...' with threshold 0.9852941176470589 but best match ratio was 0.971"
+},
+{
+"pdf": "old_scans/21.pdf",
+"text": "to have part of your business. I wish",
+"before": null,
+"after": null,
+"explanation": "Expected 'to have part of your business. I wish...' with threshold 1.0 but best match ratio was 0.973"
+},
+{
+"pdf": "old_scans/21.pdf",
+"text": "receive from you all early and favorable Reply. I am",
+"before": null,
+"after": null,
+"explanation": "Expected 'receive from you all early and favorable...' with threshold 0.9807692307692307 but best match ratio was 0.942"
+},
+{
+"pdf": "old_scans/22.pdf",
+"text": "Will expect you for Lunch at Belmont Wednesday any hour you prefer ",
+"before": null,
+"after": null,
+"explanation": "Expected 'Will expect you for Lunch at Belmont Wed...' with threshold 1.0 but best match ratio was 0.985"
+},
+{
+"pdf": "old_scans/23.pdf",
+"text": "Sanford Stoddard of Bridgeport, and Mr. McGraw, Sec'y. at the Progressive Head- quarters in",
+"before": null,
+"after": null,
+"explanation": "Expected 'Sanford Stoddard of Bridgeport, and Mr. ...' with threshold 1.0 but best match ratio was 0.978"
+},
+{
+"pdf": "old_scans/28.pdf",
+"text": "with the labor organizations and the common people with you ? Address",
+"before": null,
+"after": null,
+"explanation": "Expected 'with the labor organizations and the com...' with threshold 1.0 but best match ratio was 0.986"
+},
+{
+"pdf": "old_scans/28.pdf",
+"text": "The blind groupings of our legislators and",
+"before": null,
+"after": null,
+"explanation": "Expected 'The blind groupings of our legislators a...' with threshold 1.0 but best match ratio was 0.976"
+},
+{
+"pdf": "old_scans/30.pdf",
+"text": "Indeed strengthened by the profound change in your formal relation in the Outlook.",
+"before": null,
+"after": null,
+"explanation": "Expected 'Indeed strengthened by the profound chan...' with threshold 1.0 but best match ratio was 0.927"
+},
+{
+"pdf": "old_scans/30.pdf",
+"text": "a letter in response to you and get it into Laurance's hands, for consultation between",
+"before": null,
+"after": null,
+"explanation": "Expected 'a letter in response to you and get it i...' with threshold 1.0 but best match ratio was 0.965"
+},
+{
+"pdf": "old_scans/30.pdf",
+"text": "on you as special contributor in social and political",
+"before": null,
+"after": null,
+"explanation": "Expected 'on you as special contributor in social ...' with threshold 1.0 but best match ratio was 0.943"
+},
+{
+"pdf": "old_scans/32.pdf",
+"text": "and humanity, to invoke your aid in a",
+"before": null,
+"after": null,
+"explanation": "Expected 'and humanity, to invoke your aid in a...' with threshold 1.0 but best match ratio was 0.973"
+},
+{
+"pdf": "old_scans/33.pdf",
+"text": "in the extreme North Mr Fisher is an old man, has the respect of",
+"before": null,
+"after": null,
+"explanation": "Expected 'in the extreme North Mr Fisher is an old...' with threshold 1.0 but best match ratio was 0.984"
+},
+{
+"pdf": "old_scans/34.pdf",
+"text": "I throw myself on your superior wisdom and believe you will do what you can either to have the case reexamined the punishment suspended or in someway so modified as that it will not work the sad results it must in its present form.",
+"before": null,
+"after": null,
+"explanation": "Expected 'I throw myself on your superior wisdom a...' with threshold 0.9956709956709957 but best match ratio was 0.987"
+},
+{
+"pdf": "old_scans/35.pdf",
+"text": "If my letter is not in place forgive me and let the wife and young daughter of my friend with allmost broken hearts plead for justice to a husband a father- a grey haired minister of Jesus.",
+"before": null,
+"after": null,
+"explanation": "Expected 'If my letter is not in place forgive me ...' with threshold 0.9947089947089947 but best match ratio was 0.984"
+},
+{
+"pdf": "old_scans/35.pdf",
+"text": "young daughter of my friend with allmost broken hearts plead",
+"before": null,
+"after": null,
+"explanation": "Expected 'young daughter of my friend with allmost...' with threshold 1.0 but best match ratio was 0.983"
+},
+{
+"pdf": "old_scans/35.pdf",
+"text": "for whom he pleads Yours very respectly",
+"before": null,
+"after": null,
+"explanation": "Expected 'for whom he pleads Yours very respectly...' with threshold 1.0 but best match ratio was 0.949"
+},
+{
+"pdf": "old_scans/39.pdf",
+"text": "J M Shackleford a special command including that part of Ky lying North of Cumberland River and South of Ohio - West of line from Clarksville Ten to Owensboro on Ohio River.",
+"before": null,
+"after": null,
+"explanation": "Expected 'J M Shackleford a special command includ...' with threshold 0.9942196531791907 but best match ratio was 0.983"
+},
+{
+"pdf": "old_scans/39.pdf",
+"text": "on Ohio River. I am confident The Gurrilla & other raids will",
+"before": null,
+"after": null,
+"explanation": "Expected 'on Ohio River. I am confident The Gurril...' with threshold 1.0 but best match ratio was 0.967"
+},
+{
+"pdf": "old_scans/40.pdf",
+"text": "Y Cleggett, is desirous of obtaining an appointment as Pay Master or as Commissary of Subsistence in the U.S.",
+"before": null,
+"after": null,
+"explanation": "Expected 'Y Cleggett, is desirous of obtaining an ...' with threshold 0.9908256880733946 but best match ratio was 0.982"
+},
+{
+"pdf": "old_scans/42.pdf",
+"text": "I am about to make an effort at the State Department",
+"before": null,
+"after": null,
+"explanation": "Expected 'I am about to make an effort at the Stat...' with threshold 1.0 but best match ratio was 0.923"
+},
+{
+"pdf": "old_scans/42.pdf",
+"text": "& I am about to make an effort at the",
+"before": null,
+"after": null,
+"explanation": "Expected '& I am about to make an effort at the...' with threshold 1.0 but best match ratio was 0.973"
+},
+{
+"pdf": "old_scans/43.pdf",
+"text": "During my two months in England I had my eyes open in behalf of our Government & heard Mr.",
+"before": null,
+"after": null,
+"explanation": "Expected 'During my two months in England I had my...' with threshold 1.0 but best match ratio was 0.978"
+},
+{
+"pdf": "old_scans/43.pdf",
+"text": "to our cause by keeping under \"lock & key\" influential",
+"before": null,
+"after": null,
+"explanation": "Expected 'to our cause by keeping under \"lock & ke...' with threshold 0.9814814814814815 but best match ratio was 0.926"
+},
+{
+"pdf": "old_scans/44.pdf",
+"text": "Dear Sir Enclosed please find our receipt for Eight Dollars and Ten Cents with Postage Stamps amt'g to One Dollar and Ninety Cents to balance your ofc- With thanks for your promptness",
+"before": null,
+"after": null,
+"explanation": "Expected 'Dear Sir Enclosed please find our receip...' with threshold 0.994535519125683 but best match ratio was 0.984"
+},
+{
+"pdf": "old_scans/45.pdf",
+"text": "speak less unkindly of me in Washington. I have been admonished of",
+"before": null,
+"after": null,
+"explanation": "Expected 'speak less unkindly of me in Washington....' with threshold 1.0 but best match ratio was 0.985"
+},
+{
+"pdf": "old_scans/46.pdf",
+"text": "My rent due 19th Dec has not been paid, and as the amount $1500, is a matter now of vital importance, I must trouble you, if not in consistent with your public duties",
+"before": null,
+"after": null,
+"explanation": "Expected 'My rent due 19th Dec has not been paid, ...' with threshold 1.0 but best match ratio was 0.988"
+},
+{
+"pdf": "old_scans/46.pdf",
+"text": "claims ag'st government, & if so to when same may be paid Mr Palmer",
+"before": null,
+"after": null,
+"explanation": "Expected 'claims ag'st government, & if so to when...' with threshold 1.0 but best match ratio was 0.910"
+},
+{
+"pdf": "old_scans/47.pdf",
+"text": "I learned Yesterday you address & forwarded a number of letters to you at St Louis",
+"before": null,
+"after": null,
+"explanation": "Expected 'I learned Yesterday you address & forwar...' with threshold 1.0 but best match ratio was 0.951"
+},
+{
+"pdf": "old_scans/47.pdf",
+"text": "a few weeks since he addressed a",
+"before": null,
+"after": null,
+"explanation": "Expected 'a few weeks since he addressed a...' with threshold 1.0 but best match ratio was 0.969"
+},
+{
+"pdf": "old_scans/48.pdf",
+"text": "this dispatch, and will be deeply grateful to you if you will kindly advise me what to do under the circumstances.",
+"before": null,
+"after": null,
+"explanation": "Expected 'this dispatch, and will be deeply gratef...' with threshold 1.0 but best match ratio was 0.982"
+},
+{
+"pdf": "old_scans/49.pdf",
+"text": "calculated to do good - I remain, With great respect Your Servt",
+"before": null,
+"after": null,
+"explanation": "Expected 'calculated to do good - I remain, With g...' with threshold 0.9841269841269842 but best match ratio was 0.937"
+},
+{
+"pdf": "old_scans/50.pdf",
+"text": "& in this submission then will be no piety",
+"before": null,
+"after": null,
+"explanation": "Expected '& in this submission then will be no pie...' with threshold 1.0 but best match ratio was 0.952"
+},
+{
+"pdf": "old_scans/51.pdf",
+"text": "The Jew upbraids the christian because his sect observe no sabbath but are in this respect like the Pagans.",
+"before": null,
+"after": null,
+"explanation": "Expected 'The Jew upbraids the christian because h...' with threshold 1.0 but best match ratio was 0.981"
+},
+{
+"pdf": "old_scans/51.pdf",
+"text": "Jew upbraids the christian because his sect observe no",
+"before": null,
+"after": null,
+"explanation": "Expected 'Jew upbraids the christian because his s...' with threshold 1.0 but best match ratio was 0.981"
+},
+{
+"pdf": "old_scans/51.pdf",
+"text": "makes the christian admit & justify it & he sneers at the Jewish sabbath as",
+"before": null,
+"after": null,
+"explanation": "Expected 'makes the christian admit & justify it &...' with threshold 1.0 but best match ratio was 0.933"
+},
+{
+"pdf": "old_scans/56.pdf",
+"text": "it is an original impression existing in the mind under one uniform appearance, without variety or composition.",
+"before": null,
+"after": null,
+"explanation": "Expected 'it is an original impression existing in...' with threshold 1.0 but best match ratio was 0.928"
+},
+{
+"pdf": "old_scans/60.pdf",
+"text": "We had found how it came to be hot in some parts of the world and cold in others, and as we wiped our sweaty faces, \"wished it wasn't quite as hot her.\" We went to Africa for lions, leopards, elephants and great snakes; to Italy for oranges and grapes; to California for gold, and \"wished we had some of it here, we would have a better school house.\" We were travelers, and really knew more about the world and its way then we had ever know before in our lives.",
+"before": null,
+"after": null,
+"explanation": "Expected 'We had found how it came to be hot in so...' with threshold 0.9956616052060737 but best match ratio was 0.987"
+},
+{
+"pdf": "old_scans/61.pdf",
+"text": "The other teachers, and my own splendid pupils came tenderly to may aid relieving me of every duty possible to be done.",
+"before": null,
+"after": null,
+"explanation": "Expected 'The other teachers, and my own splendid ...' with threshold 1.0 but best match ratio was 0.992"
+},
+{
+"pdf": "old_scans/63.pdf",
+"text": "How a County Superintendent Secured Consolidation of Schools ",
+"before": null,
+"after": null,
+"explanation": "Expected 'How a County Superintendent Secured Cons...' with threshold 1.0 but best match ratio was 0.984"
+},
+{
+"pdf": "old_scans/68.pdf",
+"text": "Captain and Assistant Quartermaster. ASISTANT QUARTERMASTER'S OFFICE. Depot of Washington,",
+"before": null,
+"after": null,
+"explanation": "Expected 'Captain and Assistant Quartermaster. ASI...' with threshold 1.0 but best match ratio was 0.978"
+},
+{
+"pdf": "old_scans/69.pdf",
+"text": "of his inheritance ; the man or woman, tempted by appetite",
+"before": null,
+"after": null,
+"explanation": "Expected 'of his inheritance ; the man or woman, t...' with threshold 1.0 but best match ratio was 0.983"
+},
+{
+"pdf": "old_scans/70.pdf",
+"text": "an Infinite Creator thank any other gift. Every infringement of the law of continence",
+"before": null,
+"after": null,
+"explanation": "Expected 'an Infinite Creator thank any other gift...' with threshold 1.0 but best match ratio was 0.988"
+},
+{
+"pdf": "old_scans/72.pdf",
+"text": "covering the body evenly from neck to waist and ankles -- made from warm,",
+"before": null,
+"after": null,
+"explanation": "Expected 'covering the body evenly from neck to wa...' with threshold 0.9863013698630136 but best match ratio was 0.959"
+},
+{
+"pdf": "old_scans/76.pdf",
+"text": "I enclose these clippings from Mt V- papers to have you see what obstacles I have fought against and overcome.",
+"before": null,
+"after": null,
+"explanation": "Expected 'I enclose these clippings from Mt V- pap...' with threshold 0.990909090909091 but best match ratio was 0.973"
+},
+{
+"pdf": "old_scans/76.pdf",
+"text": "untruth - ; Red Cross will live forever!",
+"before": null,
+"after": null,
+"explanation": "Expected 'untruth - ; Red Cross will live forever!...' with threshold 1.0 but best match ratio was 0.975"
+},
+{
+"pdf": "old_scans/76.pdf",
+"text": "- ; Red Cross will live forever!",
+"before": null,
+"after": null,
+"explanation": "Expected '- ; Red Cross will live forever!...' with threshold 1.0 but best match ratio was 0.969"
+},
+{
+"pdf": "old_scans/77.pdf",
+"text": "you must before this have learned Mrs.",
+"before": null,
+"after": null,
+"explanation": "Expected 'you must before this have learned Mrs....' with threshold 1.0 but best match ratio was 0.895"
+},
+{
+"pdf": "old_scans/77.pdf",
+"text": "letter to Mrs D. the occasion of the delay",
+"before": null,
+"after": null,
+"explanation": "Expected 'letter to Mrs D. the occasion of the del...' with threshold 1.0 but best match ratio was 0.976"
+},
+{
+"pdf": "old_scans/77.pdf",
+"text": "raise the hand of rebellion against the common Country; for that day 1861",
+"before": null,
+"after": null,
+"explanation": "Expected 'raise the hand of rebellion against the ...' with threshold 1.0 but best match ratio was 0.986"
+},
+{
+"pdf": "old_scans/78.pdf",
+"text": "I come now to the expression in your excellent letter which I had all along feared-are our labors needed, are we doing any good - shall we \"work\" or shall we \"forbear\" - from the first I have dreaded lest a sense of vague uncertainty in regard to matters here should discourage the efforts of our patriotic",
+"before": null,
+"after": null,
+"explanation": "Expected 'I come now to the expression in your exc...' with threshold 0.9869281045751634 but best match ratio was 0.944"
+},
+{
+"pdf": "old_scans/79.pdf",
+"text": "and none are admitted - I wished an hour ago that you had been with me - In compliance with a request of my sister in the city I went to her home and found there a young Englishman a brother of one of their domestics who also had enlisted",
+"before": null,
+"after": null,
+"explanation": "Expected 'and none are admitted - I wished an hour...' with threshold 0.9957983193277311 but best match ratio was 0.977"
+},
+{
+"pdf": "old_scans/80.pdf",
+"text": "Surgeon was killed and that it",
+"before": null,
+"after": null,
+"explanation": "Expected 'Surgeon was killed and that it...' with threshold 1.0 but best match ratio was 0.967"
+},
+{
+"pdf": "old_scans/80.pdf",
+"text": "off at the joints his stockings had never been removed during all",
+"before": null,
+"after": null,
+"explanation": "Expected 'off at the joints his stockings had neve...' with threshold 1.0 but best match ratio was 0.985"
+},
+{
+"pdf": "old_scans/80.pdf",
+"text": "frightful When intelligent medical attendance was summoned from the city the",
+"before": null,
+"after": null,
+"explanation": "Expected 'frightful When intelligent medical atten...' with threshold 1.0 but best match ratio was 0.908"
+},
+{
+"pdf": "old_scans/81.pdf",
+"text": "this would have been all the end - who even could have mistrusted that",
+"before": null,
+"after": null,
+"explanation": "Expected 'this would have been all the end - who e...' with threshold 1.0 but best match ratio was 0.943"
+},
+{
+"pdf": "old_scans/81.pdf",
+"text": "to take care of them we should think",
+"before": null,
+"after": null,
+"explanation": "Expected 'to take care of them we should think...' with threshold 1.0 but best match ratio was 0.917"
+},
+{
+"pdf": "old_scans/81.pdf",
+"text": "nurses\" and that \"our army is supplied\" How",
+"before": null,
+"after": null,
+"explanation": "Expected 'nurses\" and that \"our army is supplied\" ...' with threshold 1.0 but best match ratio was 0.953"
+},
+{
+"pdf": "old_scans/82.pdf",
+"text": "we shall never have any other precise method of discerning the real wants of our soldiers, when the store house of any state should be found empty - it would be safe to conclude that her troops are in want need then let the full govners render the needed required assistance - this would systematize the whole the about matter, and do away with all necessary confusion doubt and uncertanty, - it would preclude all possibility of loss.",
+"before": null,
+"after": null,
+"explanation": "Expected 'we shall never have any other precise me...' with threshold 0.993103448275862 but best match ratio was 0.931"
+},
+{
+"pdf": "old_scans/82.pdf",
+"text": "of property - I am confident that this idea cannot be",
+"before": null,
+"after": null,
+"explanation": "Expected 'of property - I am confident that this i...' with threshold 1.0 but best match ratio was 0.962"
+},
+{
+"pdf": "old_scans/82.pdf",
+"text": "feel at liberty to lay before you, no one can fail to perceive that a",
+"before": null,
+"after": null,
+"explanation": "Expected 'feel at liberty to lay before you, no on...' with threshold 1.0 but best match ratio was 0.986"
+},
+{
+"pdf": "old_scans/82.pdf",
+"text": "involves loss & destruction of property - I am confident that",
+"before": null,
+"after": null,
+"explanation": "Expected 'involves loss & destruction of property ...' with threshold 1.0 but best match ratio was 0.967"
+},
+{
+"pdf": "old_scans/83.pdf",
+"text": "there were one hundred and one, persons here plus children therewith If pecunarily I were able, Massuchsetts should have her depot in this city and I should have no fears of inability this to me would be no experiment, for however dimly & slowly I discern other points, this has been clear to me from the first.",
+"before": null,
+"after": null,
+"explanation": "Expected 'there were one hundred and one, persons ...' with threshold 0.9967845659163987 but best match ratio was 0.900"
+},
+{
+"pdf": "old_scans/84.pdf",
+"text": "candel in the mouth of a bottle; once pitchy darkness close down upon men bleeding to death, on run essaying to staunch their wounds with husks & straw.",
+"before": null,
+"after": null,
+"explanation": "Expected 'candel in the mouth of a bottle; once pi...' with threshold 1.0 but best match ratio was 0.914"
+},
+{
+"pdf": "old_scans/85.pdf",
+"text": "that I incidentally learned that our excellent Dr Hitchcock, has taken back form Roanoke other",
+"before": null,
+"after": null,
+"explanation": "Expected 'that I incidentally learned that our exc...' with threshold 1.0 but best match ratio was 0.979"
+},
+{
+"pdf": "old_scans/89.pdf",
+"text": "Boston, March 24th, 1862",
+"before": null,
+"after": null,
+"explanation": "Expected 'Boston, March 24th, 1862...' with threshold 1.0 but best match ratio was 0.958"
+},
+{
+"pdf": "old_scans/90.pdf",
+"text": "Barton North Oxford.",
+"before": null,
+"after": null,
+"explanation": "Expected 'Barton North Oxford....' with threshold 1.0 but best match ratio was 0.950"
+},
+{
+"pdf": "old_scans/90.pdf",
+"text": "High respect I am Your Ob Servant",
+"before": null,
+"after": null,
+"explanation": "Expected 'High respect I am Your Ob Servant...' with threshold 1.0 but best match ratio was 0.848"
+},
+{
+"pdf": "old_scans/91.pdf",
+"text": "Mary & Robert they took with them to Washingtn and two others Rachael. and Louisa were left in Louisville with Capt. Rudd. or Mrs. Alexander - and now with Mrs. Alexander.",
+"before": null,
+"after": null,
+"explanation": "Expected 'Mary & Robert they took with them to Was...' with threshold 0.9941520467836258 but best match ratio was 0.977"
+},
+{
+"pdf": "old_scans/91.pdf",
+"text": "Mrs. Alexander - and now with Mrs. Alexander. When",
+"before": null,
+"after": null,
+"explanation": "Expected 'Mrs. Alexander - and now with Mrs. Alexa...' with threshold 1.0 but best match ratio was 0.960"
+},
+{
+"pdf": "old_scans/92.pdf",
+"text": "fears they may not be well treated This Mission is transmitted to Rosa, who will make inquiry",
+"before": null,
+"after": null,
+"explanation": "Expected 'fears they may not be well treated This ...' with threshold 1.0 but best match ratio was 0.989"
+},
+{
+"pdf": "old_scans/97.pdf",
+"text": "Genl Burnside stood a long time in front of my door today but to my astonishment, he did not express his opinion.",
+"before": null,
+"after": null,
+"explanation": "Expected 'Genl Burnside stood a long time in front...' with threshold 1.0 but best match ratio was 0.991"
+},
+{
+"pdf": "old_scans/97.pdf",
+"text": "down for me, and had Supper arranged and a",
+"before": null,
+"after": null,
+"explanation": "Expected 'down for me, and had Supper arranged and...' with threshold 1.0 but best match ratio was 0.976"
+},
+{
+"pdf": "old_scans/97.pdf",
+"text": "every day. Col Clark is very neighborly, he is looking finely",
+"before": null,
+"after": null,
+"explanation": "Expected 'every day. Col Clark is very neighborly,...' with threshold 1.0 but best match ratio was 0.984"
+},
+{
+"pdf": "old_scans/98.pdf",
+"text": "That if in the course of your life and observation sojourn in that treacherous soil and climate, there had time a place when my strength, firm health, and willing hand can and somewhat of experience can benefit the just and holy course in which it is your glorious privilege to serve for which to p forego comfort and peril life, you will tell me, and let me come and do it.",
+"before": null,
+"after": null,
+"explanation": "Expected 'That if in the course of your life and o...' with threshold 0.9946524064171123 but best match ratio was 0.930"
+},
+{
+"pdf": "old_scans/98.pdf",
+"text": "at home without a question - under the circumstances he was wise - Or",
+"before": null,
+"after": null,
+"explanation": "Expected 'at home without a question - under the c...' with threshold 1.0 but best match ratio was 0.942"
+},
+{
+"pdf": "old_scans/98.pdf",
+"text": "for me to say somethng - and intendue when I should",
+"before": null,
+"after": null,
+"explanation": "Expected 'for me to say somethng - and intendue wh...' with threshold 1.0 but best match ratio was 0.941"
+},
+{
+"pdf": "old_scans/19.pdf",
+"text": "patent, that was issued to me Dec 30th 1913. Which",
+"before": null,
+"after": null,
+"explanation": "Expected 'patent, that was issued to me Dec 30th 1...' with threshold 1.0 but best match ratio was 0.940"
+},
+{
+"pdf": "old_scans/19.pdf",
+"text": "more. Badge Buttons. the more the better and a",
+"before": null,
+"after": null,
+"explanation": "Expected 'more. Badge Buttons. the more the better...' with threshold 1.0 but best match ratio was 0.935"
+},
+{
+"pdf": "old_scans/18.pdf",
+"text": "May 22/14,",
+"before": null,
+"after": null,
+"explanation": "Expected 'May 22/14,...' with threshold 1.0 but best match ratio was 0.947"
+},
+{
+"pdf": "old_scans/52.pdf",
+"text": "the civilized world - the historical part",
+"before": null,
+"after": null,
+"explanation": "Expected 'the civilized world - the historical par...' with threshold 1.0 but best match ratio was 0.951"
+},
+{
+"pdf": "old_scans/52.pdf",
+"text": "Europe by bringing the military art to perfection, polishing the manner of the people &",
+"before": null,
+"after": null,
+"explanation": "Expected 'Europe by bringing the military art to p...' with threshold 1.0 but best match ratio was 0.989"
+},
+{
+"pdf": "old_scans/52.pdf",
+"text": "found in an abridged form in Lytler's History.",
+"before": null,
+"after": null,
+"explanation": "Expected 'found in an abridged form in Lytler's Hi...' with threshold 1.0 but best match ratio was 0.923"
+},
+{
+"pdf": "old_scans/54.pdf",
+"text": "exclaimed : oh Lord ! what a night --for catching coons!",
+"before": null,
+"after": null,
+"explanation": "Expected 'exclaimed : oh Lord ! what a night --for...' with threshold 0.9821428571428571 but best match ratio was 0.936"
+},
+{
+"pdf": "old_scans/55.pdf",
+"text": "What is method? A. the disposal & arrangement of our thoughts",
+"before": null,
+"after": null,
+"explanation": "Expected 'What is method? A. the disposal & arrang...' with threshold 1.0 but best match ratio was 0.984"
+},
+{
+"pdf": "old_scans/87.pdf",
+"text": "for the information of Miss Barton.",
+"before": null,
+"after": null,
+"explanation": "Expected 'for the information of Miss Barton....' with threshold 1.0 but best match ratio was 0.971"
+}
+],
+"old_scans|present|partial(70-90)": [
+{
+"pdf": "old_scans/14.pdf",
+"text": "your health and again come to and wash",
+"before": null,
+"after": null,
+"explanation": "Expected 'your health and again come to and wash...' with threshold 1.0 but best match ratio was 0.868"
+},
+{
+"pdf": "old_scans/20.pdf",
+"text": "order from you for 10,000 Buttons. Would includible an",
+"before": null,
+"after": null,
+"explanation": "Expected 'order from you for 10,000 Buttons. Would...' with threshold 1.0 but best match ratio was 0.796"
+},
+{
+"pdf": "old_scans/22.pdf",
+"text": "TELEGRAM T6 Ny Rw THEO. N. VAIL,",
+"before": null,
+"after": null,
+"explanation": "Expected 'TELEGRAM T6 Ny Rw THEO. N. VAIL,...' with threshold 1.0 but best match ratio was 0.719"
+},
+{
+"pdf": "old_scans/27.pdf",
+"text": "Clsip L.l.",
+"before": null,
+"after": null,
+"explanation": "Expected 'Clsip L.l....' with threshold 1.0 but best match ratio was 0.700"
+},
+{
+"pdf": "old_scans/41.pdf",
+"text": "(9th)-at 3 1/2 oclock.",
+"before": null,
+"after": null,
+"explanation": "Expected '(9th)-at 3 1/2 oclock....' with threshold 0.9545454545454546 but best match ratio was 0.909"
+},
+{
+"pdf": "old_scans/43.pdf",
+"text": "our cause by keeping under \"lock & key\"",
+"before": null,
+"after": null,
+"explanation": "Expected 'our cause by keeping under \"lock & key\"...' with threshold 0.9743589743589743 but best match ratio was 0.897"
+},
+{
+"pdf": "old_scans/45.pdf",
+"text": "Louis Jan 10. 1862",
+"before": null,
+"after": null,
+"explanation": "Expected 'Louis Jan 10. 1862...' with threshold 1.0 but best match ratio was 0.889"
+},
+{
+"pdf": "old_scans/72.pdf",
+"text": "Edson, }...",
+"before": null,
+"after": null,
+"explanation": "Expected 'Edson, }......' with threshold 1.0 but best match ratio was 0.545"
+},
+{
+"pdf": "old_scans/78.pdf",
+"text": "seemed perfectly familiar & while I knew so little. - And",
+"before": null,
+"after": null,
+"explanation": "Expected 'seemed perfectly familiar & while I knew...' with threshold 0.9824561403508771 but best match ratio was 0.842"
+},
+{
+"pdf": "old_scans/79.pdf",
+"text": "needs necessities might grow to in a",
+"before": null,
+"after": null,
+"explanation": "Expected 'needs necessities might grow to in a...' with threshold 0.9722222222222222 but best match ratio was 0.889"
+},
+{
+"pdf": "old_scans/81.pdf",
+"text": "If in New England people ladies say men lying in camp uncared for until the toes rotted from their feet with not nurses people enough about them to take care of them we should think they",
+"before": null,
+"after": null,
+"explanation": "Expected 'If in New England people ladies say men ...' with threshold 1.0 but best match ratio was 0.882"
+},
+{
+"pdf": "old_scans/83.pdf",
+"text": "ruin. there were one hundred and one, persons here plus children therewith If",
+"before": null,
+"after": null,
+"explanation": "Expected 'ruin. there were one hundred and one, pe...' with threshold 1.0 but best match ratio was 0.792"
+},
+{
+"pdf": "old_scans/84.pdf",
+"text": "to staunch their wounds with husks & straw. A note just now informs me",
+"before": null,
+"after": null,
+"explanation": "Expected 'to staunch their wounds with husks & str...' with threshold 1.0 but best match ratio was 0.900"
+},
+{
+"pdf": "old_scans/93.pdf",
+"text": "the battle of Charleston had been fought and the station first to be destroyed. I then follwd the rescue of the army next attends for Col. Rucker an",
+"before": null,
+"after": null,
+"explanation": "Expected 'the battle of Charleston had been fought...' with threshold 0.9932432432432432 but best match ratio was 0.770"
+},
+{
+"pdf": "old_scans/93.pdf",
+"text": "at the Lacy House and with the exception of ten which",
+"before": null,
+"after": null,
+"explanation": "Expected 'at the Lacy House and with the exception...' with threshold 1.0 but best match ratio was 0.849"
+},
+{
+"pdf": "old_scans/93.pdf",
+"text": "destroyed. I then follwd the rescue of the army next attends",
+"before": null,
+"after": null,
+"explanation": "Expected 'destroyed. I then follwd the rescue of t...' with threshold 1.0 but best match ratio was 0.783"
+},
+{
+"pdf": "old_scans/93.pdf",
+"text": "of Antietem on the mrng of the 17 Sept and",
+"before": null,
+"after": null,
+"explanation": "Expected 'of Antietem on the mrng of the 17 Sept a...' with threshold 1.0 but best match ratio was 0.881"
+}
+],
+"old_scans|present|absent(<70)": [
+{
+"pdf": "old_scans/13.pdf",
+"text": "Arhkin",
+"before": null,
+"after": null,
+"explanation": "Expected 'Arhkin...' with threshold 1.0 but best match ratio was 0.500"
+},
+{
+"pdf": "old_scans/15.pdf",
+"text": "May 22nd, 1914.",
+"before": null,
+"after": null,
+"explanation": "Expected 'May 22nd, 1914....' with threshold 1.0 but best match ratio was 0.333"
+},
+{
+"pdf": "old_scans/17.pdf",
+"text": "Executive Secretary Recording Secretary Alumni Federation of Columbia University May 22, 1914 Hon.",
+"before": null,
+"after": null,
+"explanation": "Expected 'Executive Secretary Recording Secretary ...' with threshold 1.0 but best match ratio was 0.469"
+},
+{
+"pdf": "old_scans/26.pdf",
+"text": "BROCKHURST, VICE-PRES'T E.G.",
+"before": null,
+"after": null,
+"explanation": "Expected 'BROCKHURST, VICE-PRES'T E.G....' with threshold 1.0 but best match ratio was 0.300"
+},
+{
+"pdf": "old_scans/27.pdf",
+"text": "Willow Brook Running and Driving Park",
+"before": null,
+"after": null,
+"explanation": "Expected 'Willow Brook Running and Driving Park...' with threshold 0.972972972972973 but best match ratio was 0.486"
+},
+{
+"pdf": "old_scans/36.pdf",
+"text": "1,393,083.68 Circulation.",
+"before": null,
+"after": null,
+"explanation": "Expected '1,393,083.68 Circulation....' with threshold 1.0 but best match ratio was 0.560"
+},
+{
+"pdf": "old_scans/47.pdf",
+"text": "St Louis Jan 13th 1862",
+"before": null,
+"after": null,
+"explanation": "Expected 'St Louis Jan 13th 1862...' with threshold 1.0 but best match ratio was 0.500"
+},
+{
+"pdf": "old_scans/18.pdf",
+"text": "THE SATURDAY EVENING POST (Weekly) $1.50",
+"before": null,
+"after": null,
+"explanation": "Expected 'THE SATURDAY EVENING POST (Weekly) $1.50...' with threshold 1.0 but best match ratio was 0.258"
+}
+],
+"old_scans|order|reversed": [
+{
+"pdf": "old_scans/5.pdf",
+"text": null,
+"before": "He is a Protestant, and can not be expected to attend Catholic ceremonials and lend himself to even the appearance of intrigue.",
+"after": "You have educated us to expect the president to talk, and he who falls short of your measure, will be a public disappointment.",
+"explanation": "'before' text 'He is a Protestant, and can not be expec...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/12.pdf",
+"text": null,
+"before": "Am simply a railroad man, a locomotive engineer, who contracted the",
+"after": "I am not in any way connected with the sale of it and have nothing to gain.",
+"explanation": "'after' text 'I am not in any way connected with the s...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/7.pdf",
+"text": null,
+"before": "But here is one instant,",
+"after": "It has been a long time since I want to write to you and to tell you what a great admiration and respect I have for you, that I cannot express on the paper.",
+"explanation": "Could not find a location where 'But here is one instant,...' appears before 'It has been a long time since I want to ...'."
+},
+{
+"pdf": "old_scans/21.pdf",
+"text": null,
+"before": "and the reason I am writing you regarding my novelty is to see if I cant",
+"after": "I am sending under separate cover.",
+"explanation": "'before' text 'and the reason I am writing you regardin...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/30.pdf",
+"text": null,
+"before": "Believe I pray you in my sincere affection and esteem for you and my faith in what you have so splendidly stood for in our",
+"after": "We shall want our correspondence, when it is published, to make clear that our interest in and loyalty to the principles for",
+"explanation": "Could not find a location where 'Believe I pray you in my sincere affecti...' appears before 'We shall want our correspondence, when i...'."
+},
+{
+"pdf": "old_scans/34.pdf",
+"text": null,
+"before": "Your Ky heart would burn within you could you but know half of the truth of matters in Mo, and the hostile deadly effect made to destroy our church, our beloved and cherished Methodism, by insult and abuse of her ministry.",
+"after": "Ky will not suffer wrong so fearful to be done if he can prevent it I know not what can be done, or what is best to be done.",
+"explanation": "'before' text 'Your Ky heart would burn within you coul...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/37.pdf",
+"text": null,
+"before": "I have been looking for that promised visit we have had such beautiful weather this fall.",
+"after": "Holt is very much pleased and is, I hope, progressing rapidly.",
+"explanation": "Could not find a location where 'I have been looking for that promised vi...' appears before 'Holt is very much pleased and is, I hope...'."
+},
+{
+"pdf": "old_scans/57.pdf",
+"text": null,
+"before": "what is the celebrated fourfold division of propositions?",
+"after": "in what way do simple ideas find admission into the minds?",
+"explanation": "'after' text 'in what way do simple ideas find admissi...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/70.pdf",
+"text": null,
+"before": "The crews are so short handed that no one can be left to make ready for the home comers and their precious freight.",
+"after": "The station fire is out, or low; no food prepared; nothing ready; everything to be begun.",
+"explanation": "Could not find a location where 'The crews are so short handed that no on...' appears before 'The station fire is out, or low; no food...'."
+},
+{
+"pdf": "old_scans/71.pdf",
+"text": null,
+"before": "\"Even when we have had too much respect for womanhood and for ourselves, to heap fresh ignominy upon them, we have been responsible for their blood, inasmuch as we have stood aloof, and have deemed with a cynical apathy, or with the fastidious shrinking of a mistaken refinement, that their fate did not concern us.",
+"after": "One identifies baptism with regeneration, the sign is exalted into the thing signified, the sacramental water removes the stain and disabilities of inherited depravity.",
+"explanation": "Could not find a location where '\"Even when we have had too much respect ...' appears before 'One identifies baptism with regeneration...'."
+},
+{
+"pdf": "old_scans/72.pdf",
+"text": null,
+"before": "Constructed in accordance with physiological principles, covering the body evenly from neck to waist and ankles -- made from warm, soft and elastic frbric.",
+"after": "BOSTON OFFICE- No.",
+"explanation": "'before' text 'Constructed in accordance with physiolog...' not found with max_l_dist 1"
+},
+{
+"pdf": "old_scans/77.pdf",
+"text": null,
+"before": "You must before this have learned from my letter to Mrs D.",
+"after": "with much regret to allow your letter to remain unanswered for a day that I might find time to write you at greater length.",
+"explanation": "'before' text 'You must before this have learned from m...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/80.pdf",
+"text": null,
+"before": "The surgeon of the Regt comes to see him, but had no idea of his condition, said that their Asst.",
+"after": "I am accustomed to see people hungry when recovering from a fever but I find that hunger and starvation, are two distinct conditions.",
+"explanation": "'before' text 'The surgeon of the Regt comes to see him...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/97.pdf",
+"text": null,
+"before": "today and in the course of conversation I discovered that their views were entirely different.",
+"after": "chided me for having left any thing behind at the depot - as I told him I had done on reaching Falmouth Station we found another old friend Capt.",
+"explanation": "'after' text 'chided me for having left any thing behi...' not found with max_l_dist 1"
+},
+{
+"pdf": "old_scans/98.pdf",
+"text": null,
+"before": "Senators Nothing less than a strong conviction of duty owed to one of the brave defenders of our Nation's honor could induce me to intrude for a moment upon the already burdened, and limited term of action yet remaining to your Honorable Body.",
+"after": "I know the thousands who are also ready and willing waiting, and I offer not because I can do better or as well perhaps as others, but I am stronger, better aclimated, have firmer health, better able to forego comforts than ladies in general.",
+"explanation": "Could not find a location where 'Senators Nothing less than a strong conv...' appears before 'I know the thousands who are also ready ...'."
+},
+{
+"pdf": "old_scans/99.pdf",
+"text": null,
+"before": "with the request that others might be sent them; the 21st had never lost their colors but they had worn them out",
+"after": "Thus drenched in blood and rent by the fury of eight battles.",
+"explanation": "'before' text 'with the request that others might be se...' not found with max_l_dist 0"
+}
+],
+"old_scans|order|one_missing": [
+{
+"pdf": "old_scans/16.pdf",
+"text": null,
+"before": "May 22nd, 1914.",
+"after": "Theodore Roosevelt",
+"explanation": "'before' text 'May 22nd, 1914....' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/28.pdf",
+"text": null,
+"before": "Dorchester, Mass., May 22nd.",
+"after": "author, or sponsor, grateful memory by the common people for a",
+"explanation": "'before' text 'Dorchester, Mass., May 22nd....' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/46.pdf",
+"text": null,
+"before": "My deep anxiety in regard to this, almost my last resource, will excuse this trouble.",
+"after": "Very truly &c A Burwell",
+"explanation": "'after' text 'Very truly &c A Burwell...' not found with max_l_dist 1"
+},
+{
+"pdf": "old_scans/81.pdf",
+"text": null,
+"before": "said, \"We have no need of nurses\" and",
+"after": "their feet with not nurses people enough",
+"explanation": "'before' text 'said, \"We have no need of nurses\" and...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/82.pdf",
+"text": null,
+"before": "soldiers, when the store house of any state should be found empty",
+"after": "the business of the ever house to see look to it's own goods property There",
+"explanation": "'after' text 'the business of the ever house to see lo...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/83.pdf",
+"text": null,
+"before": "Massuchsetts should have her depot in this city and I should have",
+"after": "some battle or other action or strong necessity renders",
+"explanation": "'before' text 'Massuchsetts should have her depot in th...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/84.pdf",
+"text": null,
+"before": "manner ticks to be filled with to raise",
+"after": "dark to me and it seem sometimes that the",
+"explanation": "'before' text 'manner ticks to be filled with to raise...' not found with max_l_dist 0"
+},
+{
+"pdf": "old_scans/92.pdf",
+"text": null,
+"before": "Gn Pope At the Battle at Cedar Mountain I was",
+"after": "Bull Rn I reach Fairfax Station with",
+"explanation": "'before' text 'Gn Pope At the Battle at Cedar Mountain ...' not found with max_l_dist 2"
+},
+{
+"pdf": "old_scans/96.pdf",
+"text": null,
+"before": "to Port Bergale and would most respectfully ask of yrs honored Dept permision",
+"after": "Letter written by Miss Barton to a friend after Bull Run Clara Barton Memorial Association Mrs. John A. Logan, President",
+"explanation": "'before' text 'to Port Bergale and would most respectfu...' not found with max_l_dist 0"
+}
+]
+}
